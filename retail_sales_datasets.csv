@@ -1,0 +1,1001 @@
+ID Transação,Data,Matrícula Cliente,Genêro,Idade,Categoria,Quantidade,Preço por unidade,Faturamento,Metodo_Pagamento,Codigo Loja
+1,2023-11-24,CUST001,Masculino,34,Beleza,3,50,150,Pix,I9J0K1L2
+2,2023-02-27,CUST002,Feminino,26,Vestuário,2,500,1000,Pix,I9J0K1L2
+3,2023-01-13,CUST003,Masculino,50,Eletrodomésticos,1,30,30,Dinheiro,A1B2C3D4
+4,2023-05-21,CUST004,Masculino,37,Vestuário,1,500,500,Boleto,M3N4O5P6
+5,2023-05-06,CUST005,Masculino,30,Beleza,2,50,100,Cartão de Crédito,M3N4O5P6
+6,2023-04-25,CUST006,Feminino,45,Beleza,1,30,30,Dinheiro,M3N4O5P6
+7,2023-03-13,CUST007,Masculino,46,Vestuário,2,25,50,Dinheiro,M3N4O5P6
+8,2023-02-22,CUST008,Masculino,30,Eletrodomésticos,4,25,100,Cartão de Crédito,I9J0K1L2
+9,2023-12-13,CUST009,Masculino,63,Eletrodomésticos,2,300,600,Cartão de Débito,E5F6G7H8
+10,2023-10-07,CUST010,Feminino,52,Vestuário,4,50,200,Pix,M3N4O5P6
+11,2023-02-14,CUST011,Masculino,23,Vestuário,2,50,100,Cartão de Crédito,I9J0K1L2
+12,2023-10-30,CUST012,Masculino,35,Beleza,3,25,75,Cartão de Débito,E5F6G7H8
+13,2023-08-05,CUST013,Masculino,22,Eletrodomésticos,3,500,1500,Dinheiro,E5F6G7H8
+14,2023-01-17,CUST014,Masculino,64,Vestuário,4,30,120,Cartão de Débito,A1B2C3D4
+15,2023-01-16,CUST015,Feminino,42,Eletrodomésticos,4,500,2000,Cartão de Crédito,M3N4O5P6
+16,2023-02-17,CUST016,Masculino,19,Vestuário,3,500,1500,Cartão de Crédito,E5F6G7H8
+17,2023-04-22,CUST017,Feminino,27,Vestuário,4,25,100,Cartão de Débito,I9J0K1L2
+18,2023-04-30,CUST018,Feminino,47,Eletrodomésticos,2,25,50,Pix,I9J0K1L2
+19,2023-09-16,CUST019,Feminino,62,Vestuário,2,25,50,Boleto,I9J0K1L2
+20,2023-11-05,CUST020,Masculino,22,Vestuário,3,300,900,Dinheiro,I9J0K1L2
+21,2023-01-14,CUST021,Feminino,50,Beleza,1,500,500,Pix,I9J0K1L2
+22,2023-10-15,CUST022,Masculino,18,Vestuário,2,50,100,Cartão de Crédito,A1B2C3D4
+23,2023-04-12,CUST023,Feminino,35,Vestuário,4,30,120,Boleto,I9J0K1L2
+24,2023-11-29,CUST024,Feminino,49,Vestuário,1,300,300,Cartão de Crédito,I9J0K1L2
+25,2023-12-26,CUST025,Feminino,64,Beleza,1,50,50,Pix,A1B2C3D4
+26,2023-10-07,CUST026,Feminino,28,Eletrodomésticos,2,500,1000,Dinheiro,E5F6G7H8
+27,2023-08-03,CUST027,Feminino,38,Beleza,2,25,50,Boleto,M3N4O5P6
+28,2023-04-23,CUST028,Feminino,43,Beleza,1,500,500,Cartão de Crédito,M3N4O5P6
+29,2023-08-18,CUST029,Feminino,42,Eletrodomésticos,1,30,30,Cartão de Débito,E5F6G7H8
+30,2023-10-29,CUST030,Feminino,39,Beleza,3,300,900,Cartão de Crédito,M3N4O5P6
+31,2023-05-23,CUST031,Masculino,44,Eletrodomésticos,4,300,1200,Cartão de Débito,M3N4O5P6
+32,2023-01-04,CUST032,Masculino,30,Beleza,3,30,90,Pix,E5F6G7H8
+33,2023-03-23,CUST033,Feminino,50,Eletrodomésticos,2,50,100,Cartão de Débito,I9J0K1L2
+34,2023-12-24,CUST034,Feminino,51,Vestuário,3,50,150,Cartão de Crédito,E5F6G7H8
+35,2023-08-05,CUST035,Feminino,58,Beleza,3,300,900,Cartão de Débito,I9J0K1L2
+36,2023-06-24,CUST036,Masculino,52,Beleza,3,300,900,Cartão de Débito,I9J0K1L2
+37,2023-05-23,CUST037,Feminino,18,Beleza,3,25,75,Dinheiro,M3N4O5P6
+38,2023-03-21,CUST038,Masculino,38,Beleza,4,50,200,Cartão de Crédito,I9J0K1L2
+39,2023-04-21,CUST039,Masculino,23,Vestuário,4,30,120,Cartão de Débito,I9J0K1L2
+40,2023-06-22,CUST040,Masculino,45,Beleza,1,50,50,Dinheiro,M3N4O5P6
+41,2023-02-22,CUST041,Masculino,34,Vestuário,2,25,50,Cartão de Débito,I9J0K1L2
+42,2023-02-17,CUST042,Masculino,22,Vestuário,3,300,900,Cartão de Débito,E5F6G7H8
+43,2023-07-14,CUST043,Feminino,48,Vestuário,1,300,300,Boleto,I9J0K1L2
+44,2023-02-19,CUST044,Feminino,22,Vestuário,1,25,25,Boleto,I9J0K1L2
+45,2023-07-03,CUST045,Feminino,55,Eletrodomésticos,1,30,30,Cartão de Débito,I9J0K1L2
+46,2023-06-26,CUST046,Feminino,20,Eletrodomésticos,4,300,1200,Dinheiro,A1B2C3D4
+47,2023-11-06,CUST047,Feminino,40,Beleza,3,500,1500,Cartão de Crédito,E5F6G7H8
+48,2023-05-16,CUST048,Masculino,54,Eletrodomésticos,3,300,900,Cartão de Débito,E5F6G7H8
+49,2023-01-23,CUST049,Feminino,54,Eletrodomésticos,2,500,1000,Boleto,M3N4O5P6
+50,2023-08-24,CUST050,Feminino,27,Beleza,3,25,75,Boleto,M3N4O5P6
+51,2023-10-02,CUST051,Masculino,27,Beleza,3,25,75,Boleto,M3N4O5P6
+52,2023-03-05,CUST052,Feminino,36,Beleza,1,300,300,Boleto,A1B2C3D4
+53,2023-07-13,CUST053,Masculino,34,Eletrodomésticos,2,50,100,Pix,E5F6G7H8
+54,2023-02-10,CUST054,Feminino,38,Eletrodomésticos,3,500,1500,Dinheiro,A1B2C3D4
+55,2023-10-10,CUST055,Masculino,31,Beleza,4,30,120,Boleto,A1B2C3D4
+56,2023-05-31,CUST056,Feminino,26,Vestuário,3,300,900,Boleto,E5F6G7H8
+57,2023-11-18,CUST057,Feminino,63,Beleza,1,30,30,Cartão de Débito,I9J0K1L2
+58,2023-11-13,CUST058,Masculino,18,Vestuário,4,300,1200,Dinheiro,A1B2C3D4
+59,2023-07-05,CUST059,Masculino,62,Vestuário,1,50,50,Pix,A1B2C3D4
+60,2023-10-23,CUST060,Masculino,30,Beleza,3,50,150,Pix,I9J0K1L2
+61,2023-04-09,CUST061,Masculino,21,Beleza,4,50,200,Cartão de Crédito,E5F6G7H8
+62,2023-12-27,CUST062,Masculino,18,Beleza,2,50,100,Dinheiro,E5F6G7H8
+63,2023-02-05,CUST063,Masculino,57,Eletrodomésticos,2,25,50,Dinheiro,I9J0K1L2
+64,2023-01-24,CUST064,Masculino,49,Vestuário,4,25,100,Cartão de Crédito,M3N4O5P6
+65,2023-12-05,CUST065,Masculino,51,Eletrodomésticos,4,500,2000,Boleto,A1B2C3D4
+66,2023-04-27,CUST066,Feminino,45,Eletrodomésticos,1,30,30,Boleto,A1B2C3D4
+67,2023-05-29,CUST067,Feminino,48,Beleza,4,300,1200,Pix,I9J0K1L2
+68,2023-02-10,CUST068,Masculino,25,Eletrodomésticos,1,300,300,Cartão de Débito,M3N4O5P6
+69,2023-04-30,CUST069,Feminino,56,Beleza,3,25,75,Dinheiro,A1B2C3D4
+70,2023-02-21,CUST070,Feminino,43,Vestuário,1,300,300,Cartão de Crédito,A1B2C3D4
+71,2023-07-14,CUST071,Feminino,51,Beleza,4,25,100,Cartão de Crédito,E5F6G7H8
+72,2023-05-23,CUST072,Feminino,20,Eletrodomésticos,4,500,2000,Cartão de Débito,M3N4O5P6
+73,2023-08-21,CUST073,Masculino,29,Eletrodomésticos,3,30,90,Dinheiro,E5F6G7H8
+74,2023-11-22,CUST074,Feminino,18,Beleza,4,500,2000,Cartão de Crédito,I9J0K1L2
+75,2023-07-06,CUST075,Masculino,61,Beleza,4,50,200,Pix,M3N4O5P6
+76,2023-03-25,CUST076,Feminino,22,Eletrodomésticos,2,50,100,Boleto,I9J0K1L2
+77,2023-07-09,CUST077,Feminino,47,Vestuário,2,50,100,Boleto,A1B2C3D4
+78,2023-07-01,CUST078,Feminino,47,Vestuário,3,500,1500,Boleto,I9J0K1L2
+79,2023-04-18,CUST079,Masculino,34,Beleza,1,300,300,Dinheiro,M3N4O5P6
+80,2023-12-10,CUST080,Feminino,64,Vestuário,2,30,60,Cartão de Débito,M3N4O5P6
+81,2023-05-17,CUST081,Masculino,40,Eletrodomésticos,1,50,50,Cartão de Débito,M3N4O5P6
+82,2023-12-26,CUST082,Feminino,32,Beleza,4,50,200,Pix,A1B2C3D4
+83,2023-12-16,CUST083,Masculino,54,Eletrodomésticos,2,50,100,Cartão de Crédito,I9J0K1L2
+84,2023-11-28,CUST084,Feminino,38,Eletrodomésticos,3,30,90,Dinheiro,A1B2C3D4
+85,2023-02-06,CUST085,Masculino,31,Vestuário,3,50,150,Cartão de Débito,I9J0K1L2
+86,2023-11-08,CUST086,Masculino,19,Beleza,3,30,90,Dinheiro,I9J0K1L2
+87,2023-11-22,CUST087,Feminino,28,Beleza,2,50,100,Dinheiro,A1B2C3D4
+88,2023-03-29,CUST088,Masculino,56,Vestuário,1,500,500,Pix,I9J0K1L2
+89,2023-10-01,CUST089,Feminino,55,Eletrodomésticos,4,500,2000,Boleto,I9J0K1L2
+90,2023-05-06,CUST090,Feminino,51,Eletrodomésticos,1,30,30,Boleto,I9J0K1L2
+91,2023-03-25,CUST091,Feminino,55,Eletrodomésticos,1,500,500,Dinheiro,I9J0K1L2
+92,2023-08-25,CUST092,Feminino,51,Eletrodomésticos,4,30,120,Cartão de Débito,I9J0K1L2
+93,2023-07-14,CUST093,Feminino,35,Beleza,4,500,2000,Dinheiro,A1B2C3D4
+94,2023-05-19,CUST094,Feminino,47,Beleza,2,500,1000,Cartão de Débito,A1B2C3D4
+95,2023-11-24,CUST095,Feminino,32,Vestuário,2,30,60,Cartão de Débito,I9J0K1L2
+96,2023-12-19,CUST096,Feminino,44,Vestuário,2,300,600,Pix,A1B2C3D4
+97,2023-10-13,CUST097,Feminino,51,Beleza,2,500,1000,Cartão de Crédito,M3N4O5P6
+98,2023-04-23,CUST098,Feminino,55,Beleza,2,50,100,Dinheiro,E5F6G7H8
+99,2023-12-17,CUST099,Feminino,50,Eletrodomésticos,4,300,1200,Cartão de Débito,A1B2C3D4
+100,2023-06-16,CUST100,Masculino,41,Eletrodomésticos,1,30,30,Cartão de Débito,I9J0K1L2
+101,2023-01-29,CUST101,Masculino,32,Vestuário,2,300,600,Cartão de Débito,E5F6G7H8
+102,2023-04-28,CUST102,Feminino,47,Beleza,2,25,50,Dinheiro,I9J0K1L2
+103,2023-01-17,CUST103,Feminino,59,Vestuário,1,25,25,Boleto,E5F6G7H8
+104,2023-06-11,CUST104,Feminino,34,Beleza,2,500,1000,Dinheiro,M3N4O5P6
+105,2023-07-25,CUST105,Feminino,22,Eletrodomésticos,1,500,500,Cartão de Crédito,E5F6G7H8
+106,2023-05-18,CUST106,Feminino,46,Vestuário,1,50,50,Cartão de Crédito,I9J0K1L2
+107,2023-02-03,CUST107,Feminino,21,Vestuário,4,300,1200,Pix,E5F6G7H8
+108,2023-04-19,CUST108,Feminino,27,Beleza,3,25,75,Cartão de Crédito,E5F6G7H8
+109,2023-10-18,CUST109,Feminino,34,Eletrodomésticos,4,500,2000,Pix,M3N4O5P6
+110,2023-06-11,CUST110,Masculino,27,Vestuário,3,300,900,Boleto,I9J0K1L2
+111,2023-04-19,CUST111,Feminino,34,Eletrodomésticos,3,500,1500,Cartão de Crédito,E5F6G7H8
+112,2023-12-02,CUST112,Masculino,37,Vestuário,3,500,1500,Dinheiro,I9J0K1L2
+113,2023-09-13,CUST113,Feminino,41,Eletrodomésticos,2,25,50,Boleto,M3N4O5P6
+114,2023-07-22,CUST114,Feminino,22,Beleza,4,25,100,Boleto,E5F6G7H8
+115,2023-11-26,CUST115,Masculino,51,Vestuário,3,500,1500,Boleto,E5F6G7H8
+116,2023-08-23,CUST116,Feminino,23,Vestuário,1,30,30,Cartão de Débito,I9J0K1L2
+117,2023-03-15,CUST117,Masculino,19,Eletrodomésticos,2,500,1000,Cartão de Crédito,A1B2C3D4
+118,2023-05-16,CUST118,Feminino,30,Eletrodomésticos,4,500,2000,Boleto,M3N4O5P6
+119,2023-03-13,CUST119,Feminino,60,Vestuário,3,50,150,Cartão de Crédito,M3N4O5P6
+120,2023-05-07,CUST120,Masculino,60,Beleza,1,50,50,Cartão de Crédito,M3N4O5P6
+121,2023-10-15,CUST121,Feminino,28,Eletrodomésticos,4,50,200,Cartão de Débito,I9J0K1L2
+122,2023-10-03,CUST122,Masculino,64,Eletrodomésticos,4,30,120,Boleto,A1B2C3D4
+123,2023-05-15,CUST123,Feminino,40,Eletrodomésticos,2,30,60,Dinheiro,E5F6G7H8
+124,2023-10-27,CUST124,Masculino,33,Vestuário,4,500,2000,Cartão de Débito,I9J0K1L2
+125,2023-08-08,CUST125,Masculino,48,Vestuário,2,50,100,Cartão de Crédito,A1B2C3D4
+126,2023-10-26,CUST126,Feminino,28,Vestuário,3,30,90,Cartão de Débito,M3N4O5P6
+127,2023-07-24,CUST127,Feminino,33,Vestuário,2,25,50,Cartão de Débito,E5F6G7H8
+128,2023-07-05,CUST128,Masculino,25,Beleza,1,500,500,Dinheiro,A1B2C3D4
+129,2023-04-23,CUST129,Feminino,21,Beleza,2,300,600,Cartão de Débito,E5F6G7H8
+130,2023-03-12,CUST130,Feminino,57,Vestuário,1,500,500,Dinheiro,I9J0K1L2
+131,2023-09-18,CUST131,Feminino,21,Beleza,2,300,600,Boleto,A1B2C3D4
+132,2023-09-10,CUST132,Masculino,42,Eletrodomésticos,4,50,200,Boleto,M3N4O5P6
+133,2023-02-16,CUST133,Masculino,20,Eletrodomésticos,3,300,900,Pix,E5F6G7H8
+134,2023-01-25,CUST134,Masculino,49,Eletrodomésticos,1,50,50,Cartão de Crédito,I9J0K1L2
+135,2023-02-26,CUST135,Masculino,20,Vestuário,2,25,50,Cartão de Crédito,M3N4O5P6
+136,2023-03-20,CUST136,Masculino,44,Eletrodomésticos,2,300,600,Dinheiro,E5F6G7H8
+137,2023-11-18,CUST137,Masculino,46,Beleza,2,500,1000,Dinheiro,E5F6G7H8
+138,2023-03-23,CUST138,Masculino,49,Vestuário,4,50,200,Cartão de Débito,A1B2C3D4
+139,2023-12-15,CUST139,Masculino,36,Beleza,4,500,2000,Cartão de Crédito,A1B2C3D4
+140,2023-08-05,CUST140,Masculino,38,Eletrodomésticos,1,30,30,Dinheiro,E5F6G7H8
+141,2023-11-02,CUST141,Feminino,22,Eletrodomésticos,1,50,50,Dinheiro,A1B2C3D4
+142,2023-02-02,CUST142,Masculino,35,Eletrodomésticos,4,300,1200,Cartão de Débito,A1B2C3D4
+143,2023-07-17,CUST143,Feminino,45,Vestuário,1,50,50,Dinheiro,I9J0K1L2
+144,2023-07-15,CUST144,Feminino,59,Beleza,3,500,1500,Cartão de Crédito,M3N4O5P6
+145,2023-11-02,CUST145,Feminino,39,Vestuário,3,25,75,Pix,E5F6G7H8
+146,2023-08-28,CUST146,Masculino,38,Vestuário,4,50,200,Boleto,A1B2C3D4
+147,2023-09-28,CUST147,Masculino,23,Eletrodomésticos,1,300,300,Cartão de Crédito,I9J0K1L2
+148,2023-05-09,CUST148,Masculino,18,Vestuário,2,30,60,Boleto,E5F6G7H8
+149,2023-10-11,CUST149,Masculino,22,Vestuário,3,25,75,Cartão de Crédito,M3N4O5P6
+150,2023-01-06,CUST150,Feminino,58,Eletrodomésticos,4,30,120,Pix,E5F6G7H8
+151,2023-12-15,CUST151,Masculino,29,Vestuário,1,50,50,Dinheiro,A1B2C3D4
+152,2023-02-28,CUST152,Masculino,43,Eletrodomésticos,4,500,2000,Cartão de Crédito,A1B2C3D4
+153,2023-12-16,CUST153,Masculino,63,Eletrodomésticos,2,500,1000,Boleto,E5F6G7H8
+154,2023-10-02,CUST154,Masculino,51,Eletrodomésticos,3,300,900,Boleto,A1B2C3D4
+155,2023-05-17,CUST155,Masculino,31,Eletrodomésticos,4,500,2000,Cartão de Débito,A1B2C3D4
+156,2023-11-25,CUST156,Feminino,43,Vestuário,4,25,100,Cartão de Débito,E5F6G7H8
+157,2023-06-24,CUST157,Masculino,62,Eletrodomésticos,4,500,2000,Cartão de Débito,A1B2C3D4
+158,2023-02-27,CUST158,Feminino,44,Eletrodomésticos,2,300,600,Boleto,I9J0K1L2
+159,2023-05-31,CUST159,Masculino,26,Vestuário,4,50,200,Cartão de Débito,A1B2C3D4
+160,2023-08-11,CUST160,Feminino,43,Vestuário,2,50,100,Boleto,M3N4O5P6
+161,2023-03-22,CUST161,Masculino,64,Beleza,2,500,1000,Dinheiro,I9J0K1L2
+162,2023-08-21,CUST162,Masculino,39,Vestuário,2,30,60,Boleto,I9J0K1L2
+163,2023-01-02,CUST163,Feminino,64,Vestuário,3,50,150,Boleto,M3N4O5P6
+164,2023-05-15,CUST164,Feminino,47,Beleza,3,500,1500,Pix,M3N4O5P6
+165,2023-09-14,CUST165,Feminino,60,Vestuário,4,300,1200,Pix,E5F6G7H8
+166,2023-04-02,CUST166,Masculino,34,Vestuário,4,500,2000,Cartão de Crédito,E5F6G7H8
+167,2023-09-17,CUST167,Feminino,43,Vestuário,3,50,150,Dinheiro,E5F6G7H8
+168,2023-02-24,CUST168,Masculino,53,Vestuário,1,300,300,Dinheiro,I9J0K1L2
+169,2023-11-17,CUST169,Masculino,18,Beleza,3,500,1500,Boleto,A1B2C3D4
+170,2023-06-02,CUST170,Feminino,25,Vestuário,2,25,50,Cartão de Crédito,A1B2C3D4
+171,2023-11-24,CUST171,Feminino,52,Vestuário,3,300,900,Cartão de Crédito,M3N4O5P6
+172,2023-09-17,CUST172,Masculino,32,Beleza,2,25,50,Boleto,A1B2C3D4
+173,2023-11-08,CUST173,Masculino,64,Eletrodomésticos,4,30,120,Pix,I9J0K1L2
+174,2023-04-12,CUST174,Feminino,39,Beleza,1,300,300,Boleto,M3N4O5P6
+175,2023-03-20,CUST175,Feminino,31,Eletrodomésticos,4,25,100,Boleto,E5F6G7H8
+176,2023-07-11,CUST176,Feminino,43,Beleza,2,50,100,Pix,M3N4O5P6
+177,2023-03-24,CUST177,Masculino,45,Beleza,2,50,100,Boleto,I9J0K1L2
+178,2023-10-04,CUST178,Masculino,40,Vestuário,2,30,60,Pix,M3N4O5P6
+179,2023-09-29,CUST179,Masculino,31,Eletrodomésticos,1,300,300,Cartão de Débito,E5F6G7H8
+180,2023-01-01,CUST180,Masculino,41,Vestuário,3,300,900,Pix,A1B2C3D4
+181,2023-11-03,CUST181,Masculino,19,Eletrodomésticos,4,300,1200,Cartão de Crédito,I9J0K1L2
+182,2023-06-15,CUST182,Masculino,62,Beleza,4,30,120,Boleto,I9J0K1L2
+183,2023-09-08,CUST183,Feminino,43,Beleza,3,300,900,Boleto,E5F6G7H8
+184,2023-01-10,CUST184,Masculino,31,Eletrodomésticos,4,50,200,Cartão de Crédito,E5F6G7H8
+185,2023-02-27,CUST185,Masculino,24,Vestuário,1,25,25,Dinheiro,E5F6G7H8
+186,2023-07-05,CUST186,Masculino,20,Vestuário,4,50,200,Cartão de Crédito,M3N4O5P6
+187,2023-06-07,CUST187,Feminino,64,Vestuário,2,50,100,Pix,I9J0K1L2
+188,2023-05-03,CUST188,Masculino,40,Vestuário,3,25,75,Cartão de Débito,E5F6G7H8
+189,2023-01-30,CUST189,Masculino,63,Beleza,1,50,50,Cartão de Crédito,E5F6G7H8
+190,2023-05-04,CUST190,Feminino,60,Beleza,3,30,90,Cartão de Débito,A1B2C3D4
+191,2023-10-18,CUST191,Masculino,64,Beleza,1,25,25,Boleto,M3N4O5P6
+192,2023-02-10,CUST192,Masculino,62,Beleza,2,50,100,Cartão de Crédito,I9J0K1L2
+193,2023-02-13,CUST193,Masculino,35,Beleza,3,500,1500,Cartão de Crédito,E5F6G7H8
+194,2023-09-06,CUST194,Masculino,55,Vestuário,4,50,200,Pix,A1B2C3D4
+195,2023-02-05,CUST195,Masculino,52,Vestuário,1,30,30,Pix,A1B2C3D4
+196,2023-09-30,CUST196,Feminino,32,Vestuário,3,300,900,Cartão de Crédito,E5F6G7H8
+197,2023-03-06,CUST197,Feminino,42,Vestuário,4,50,200,Boleto,I9J0K1L2
+198,2023-03-07,CUST198,Feminino,54,Beleza,3,300,900,Dinheiro,I9J0K1L2
+199,2023-12-04,CUST199,Masculino,45,Beleza,3,500,1500,Pix,A1B2C3D4
+200,2023-09-01,CUST200,Masculino,27,Beleza,3,50,150,Pix,I9J0K1L2
+201,2023-10-09,CUST201,Masculino,56,Eletrodomésticos,1,25,25,Cartão de Débito,E5F6G7H8
+202,2023-03-26,CUST202,Feminino,34,Vestuário,4,300,1200,Dinheiro,E5F6G7H8
+203,2023-05-16,CUST203,Masculino,56,Vestuário,2,500,1000,Cartão de Crédito,M3N4O5P6
+204,2023-09-28,CUST204,Masculino,39,Beleza,1,25,25,Cartão de Crédito,E5F6G7H8
+205,2023-11-07,CUST205,Feminino,43,Vestuário,1,25,25,Dinheiro,A1B2C3D4
+206,2023-08-05,CUST206,Masculino,61,Vestuário,1,25,25,Dinheiro,I9J0K1L2
+207,2023-04-19,CUST207,Feminino,42,Beleza,2,25,50,Dinheiro,M3N4O5P6
+208,2023-10-04,CUST208,Feminino,34,Eletrodomésticos,4,50,200,Cartão de Crédito,E5F6G7H8
+209,2023-12-20,CUST209,Feminino,30,Eletrodomésticos,4,50,200,Dinheiro,I9J0K1L2
+210,2023-04-13,CUST210,Masculino,37,Eletrodomésticos,4,50,200,Boleto,I9J0K1L2
+211,2024-01-01,CUST211,Masculino,42,Beleza,3,500,1500,Cartão de Débito,M3N4O5P6
+212,2023-06-09,CUST212,Masculino,21,Vestuário,3,500,1500,Pix,E5F6G7H8
+213,2023-07-24,CUST213,Masculino,27,Beleza,3,500,1500,Dinheiro,E5F6G7H8
+214,2023-12-10,CUST214,Masculino,20,Beleza,2,30,60,Cartão de Crédito,I9J0K1L2
+215,2023-11-29,CUST215,Masculino,58,Vestuário,3,500,1500,Cartão de Débito,E5F6G7H8
+216,2023-07-11,CUST216,Masculino,62,Eletrodomésticos,2,50,100,Cartão de Débito,M3N4O5P6
+217,2023-08-13,CUST217,Feminino,35,Eletrodomésticos,4,50,200,Boleto,I9J0K1L2
+218,2023-09-22,CUST218,Masculino,64,Beleza,3,30,90,Dinheiro,A1B2C3D4
+219,2023-08-20,CUST219,Feminino,53,Eletrodomésticos,3,30,90,Cartão de Débito,E5F6G7H8
+220,2023-03-03,CUST220,Masculino,64,Beleza,1,500,500,Cartão de Crédito,E5F6G7H8
+221,2023-05-07,CUST221,Masculino,39,Beleza,2,300,600,Boleto,I9J0K1L2
+222,2023-04-26,CUST222,Masculino,51,Vestuário,4,30,120,Boleto,E5F6G7H8
+223,2023-02-02,CUST223,Feminino,64,Vestuário,1,25,25,Cartão de Débito,I9J0K1L2
+224,2023-06-23,CUST224,Feminino,25,Vestuário,1,50,50,Pix,E5F6G7H8
+225,2023-01-11,CUST225,Feminino,57,Beleza,4,25,100,Boleto,I9J0K1L2
+226,2023-10-29,CUST226,Feminino,61,Vestuário,1,50,50,Cartão de Crédito,M3N4O5P6
+227,2023-10-11,CUST227,Masculino,36,Eletrodomésticos,2,50,100,Dinheiro,M3N4O5P6
+228,2023-04-28,CUST228,Feminino,59,Eletrodomésticos,2,30,60,Pix,A1B2C3D4
+229,2023-10-29,CUST229,Masculino,58,Beleza,3,30,90,Boleto,E5F6G7H8
+230,2023-04-23,CUST230,Masculino,54,Beleza,1,25,25,Boleto,M3N4O5P6
+231,2023-01-04,CUST231,Feminino,23,Vestuário,3,50,150,Cartão de Crédito,I9J0K1L2
+232,2023-02-06,CUST232,Feminino,43,Beleza,1,25,25,Dinheiro,A1B2C3D4
+233,2023-12-29,CUST233,Feminino,51,Beleza,2,300,600,Dinheiro,A1B2C3D4
+234,2023-11-20,CUST234,Feminino,62,Eletrodomésticos,2,25,50,Cartão de Crédito,I9J0K1L2
+235,2023-01-31,CUST235,Feminino,23,Eletrodomésticos,2,500,1000,Cartão de Crédito,M3N4O5P6
+236,2023-04-28,CUST236,Feminino,54,Vestuário,1,25,25,Pix,A1B2C3D4
+237,2023-02-04,CUST237,Feminino,50,Beleza,2,500,1000,Cartão de Débito,A1B2C3D4
+238,2023-01-17,CUST238,Feminino,39,Beleza,1,500,500,Cartão de Crédito,A1B2C3D4
+239,2023-06-19,CUST239,Masculino,38,Eletrodomésticos,3,500,1500,Cartão de Débito,M3N4O5P6
+240,2023-02-06,CUST240,Feminino,23,Beleza,1,300,300,Cartão de Crédito,I9J0K1L2
+241,2023-09-21,CUST241,Feminino,23,Eletrodomésticos,3,25,75,Boleto,M3N4O5P6
+242,2023-05-02,CUST242,Masculino,21,Vestuário,1,25,25,Boleto,A1B2C3D4
+243,2023-05-23,CUST243,Feminino,47,Eletrodomésticos,3,300,900,Cartão de Débito,E5F6G7H8
+244,2023-12-09,CUST244,Masculino,28,Beleza,2,50,100,Dinheiro,A1B2C3D4
+245,2023-09-06,CUST245,Masculino,47,Vestuário,3,30,90,Cartão de Crédito,I9J0K1L2
+246,2023-04-20,CUST246,Feminino,48,Eletrodomésticos,2,25,50,Cartão de Crédito,M3N4O5P6
+247,2023-10-04,CUST247,Masculino,41,Eletrodomésticos,2,30,60,Pix,A1B2C3D4
+248,2023-03-09,CUST248,Masculino,26,Vestuário,3,300,900,Cartão de Crédito,E5F6G7H8
+249,2023-10-20,CUST249,Masculino,20,Vestuário,1,50,50,Pix,M3N4O5P6
+250,2023-10-23,CUST250,Masculino,48,Eletrodomésticos,1,50,50,Boleto,M3N4O5P6
+251,2023-08-31,CUST251,Feminino,57,Beleza,4,50,200,Boleto,A1B2C3D4
+252,2023-05-05,CUST252,Masculino,54,Eletrodomésticos,1,300,300,Pix,E5F6G7H8
+253,2023-08-31,CUST253,Feminino,53,Vestuário,4,500,2000,Pix,I9J0K1L2
+254,2023-07-28,CUST254,Masculino,41,Eletrodomésticos,1,500,500,Dinheiro,A1B2C3D4
+255,2023-04-08,CUST255,Masculino,48,Vestuário,1,30,30,Pix,E5F6G7H8
+256,2023-02-18,CUST256,Masculino,23,Vestuário,2,500,1000,Pix,M3N4O5P6
+257,2023-02-19,CUST257,Masculino,19,Beleza,4,500,2000,Cartão de Débito,A1B2C3D4
+258,2023-12-04,CUST258,Feminino,37,Vestuário,1,50,50,Pix,M3N4O5P6
+259,2023-08-09,CUST259,Feminino,45,Vestuário,4,50,200,Boleto,A1B2C3D4
+260,2023-07-01,CUST260,Masculino,28,Beleza,2,30,60,Boleto,I9J0K1L2
+261,2023-08-05,CUST261,Masculino,21,Vestuário,2,25,50,Cartão de Débito,A1B2C3D4
+262,2023-07-30,CUST262,Feminino,32,Beleza,4,30,120,Cartão de Crédito,E5F6G7H8
+263,2023-08-28,CUST263,Masculino,23,Beleza,2,30,60,Pix,I9J0K1L2
+264,2023-01-28,CUST264,Masculino,47,Vestuário,3,300,900,Boleto,I9J0K1L2
+265,2023-12-11,CUST265,Masculino,55,Vestuário,3,300,900,Pix,E5F6G7H8
+266,2023-12-01,CUST266,Feminino,19,Eletrodomésticos,2,30,60,Cartão de Débito,A1B2C3D4
+267,2023-11-27,CUST267,Feminino,32,Beleza,3,30,90,Dinheiro,I9J0K1L2
+268,2023-02-20,CUST268,Feminino,28,Eletrodomésticos,1,30,30,Cartão de Crédito,E5F6G7H8
+269,2023-02-01,CUST269,Masculino,25,Vestuário,4,500,2000,Cartão de Crédito,E5F6G7H8
+270,2023-07-26,CUST270,Masculino,43,Eletrodomésticos,1,300,300,Cartão de Débito,E5F6G7H8
+271,2023-06-23,CUST271,Feminino,62,Beleza,4,30,120,Boleto,A1B2C3D4
+272,2023-02-25,CUST272,Feminino,61,Eletrodomésticos,2,50,100,Pix,I9J0K1L2
+273,2023-05-08,CUST273,Feminino,22,Beleza,1,50,50,Pix,I9J0K1L2
+274,2023-04-09,CUST274,Feminino,23,Vestuário,2,500,1000,Cartão de Crédito,M3N4O5P6
+275,2023-04-08,CUST275,Masculino,43,Vestuário,2,500,1000,Cartão de Débito,A1B2C3D4
+276,2023-10-02,CUST276,Feminino,21,Beleza,4,25,100,Dinheiro,E5F6G7H8
+277,2023-08-18,CUST277,Masculino,36,Vestuário,4,25,100,Dinheiro,I9J0K1L2
+278,2023-03-13,CUST278,Feminino,37,Vestuário,4,25,100,Pix,I9J0K1L2
+279,2023-08-05,CUST279,Masculino,50,Vestuário,1,500,500,Dinheiro,M3N4O5P6
+280,2023-04-04,CUST280,Feminino,37,Vestuário,3,500,1500,Pix,M3N4O5P6
+281,2023-05-23,CUST281,Feminino,29,Beleza,4,500,2000,Cartão de Crédito,I9J0K1L2
+282,2023-08-25,CUST282,Feminino,64,Eletrodomésticos,4,50,200,Pix,I9J0K1L2
+283,2023-05-08,CUST283,Feminino,18,Eletrodomésticos,1,500,500,Cartão de Débito,I9J0K1L2
+284,2023-02-08,CUST284,Masculino,43,Vestuário,4,50,200,Dinheiro,M3N4O5P6
+285,2023-08-15,CUST285,Feminino,31,Eletrodomésticos,1,25,25,Cartão de Débito,E5F6G7H8
+286,2023-10-09,CUST286,Masculino,55,Eletrodomésticos,2,25,50,Boleto,M3N4O5P6
+287,2023-02-20,CUST287,Masculino,54,Vestuário,4,25,100,Cartão de Débito,I9J0K1L2
+288,2023-01-26,CUST288,Masculino,28,Vestuário,4,30,120,Cartão de Débito,A1B2C3D4
+289,2023-11-30,CUST289,Masculino,53,Eletrodomésticos,2,30,60,Cartão de Débito,E5F6G7H8
+290,2023-10-04,CUST290,Feminino,30,Beleza,2,300,600,Cartão de Crédito,I9J0K1L2
+291,2023-01-08,CUST291,Masculino,60,Vestuário,2,300,600,Pix,E5F6G7H8
+292,2023-02-17,CUST292,Masculino,20,Beleza,4,300,1200,Boleto,E5F6G7H8
+293,2023-05-02,CUST293,Masculino,50,Eletrodomésticos,3,30,90,Boleto,A1B2C3D4
+294,2023-03-27,CUST294,Feminino,23,Vestuário,3,30,90,Cartão de Débito,A1B2C3D4
+295,2023-07-28,CUST295,Feminino,27,Beleza,3,300,900,Pix,M3N4O5P6
+296,2023-09-06,CUST296,Feminino,22,Vestuário,4,300,1200,Pix,E5F6G7H8
+297,2023-09-04,CUST297,Feminino,40,Eletrodomésticos,2,500,1000,Pix,I9J0K1L2
+298,2023-04-20,CUST298,Masculino,27,Beleza,4,300,1200,Boleto,E5F6G7H8
+299,2023-07-25,CUST299,Masculino,61,Eletrodomésticos,2,500,1000,Pix,M3N4O5P6
+300,2023-01-31,CUST300,Feminino,19,Eletrodomésticos,4,50,200,Pix,E5F6G7H8
+301,2023-03-26,CUST301,Masculino,30,Vestuário,4,30,120,Cartão de Crédito,E5F6G7H8
+302,2023-07-14,CUST302,Masculino,57,Beleza,2,300,600,Dinheiro,A1B2C3D4
+303,2023-01-02,CUST303,Masculino,19,Eletrodomésticos,3,30,90,Boleto,E5F6G7H8
+304,2023-07-19,CUST304,Feminino,37,Eletrodomésticos,2,30,60,Dinheiro,M3N4O5P6
+305,2023-05-16,CUST305,Feminino,18,Beleza,1,30,30,Boleto,A1B2C3D4
+306,2023-08-21,CUST306,Masculino,54,Eletrodomésticos,1,50,50,Pix,I9J0K1L2
+307,2023-05-27,CUST307,Feminino,26,Eletrodomésticos,2,25,50,Dinheiro,M3N4O5P6
+308,2023-08-05,CUST308,Feminino,34,Beleza,4,300,1200,Dinheiro,M3N4O5P6
+309,2023-12-23,CUST309,Feminino,26,Beleza,1,25,25,Cartão de Crédito,A1B2C3D4
+310,2023-10-12,CUST310,Feminino,28,Beleza,1,25,25,Pix,M3N4O5P6
+311,2023-12-05,CUST311,Feminino,32,Beleza,4,25,100,Cartão de Crédito,I9J0K1L2
+312,2023-09-07,CUST312,Masculino,41,Vestuário,4,30,120,Boleto,E5F6G7H8
+313,2023-03-21,CUST313,Feminino,55,Beleza,3,500,1500,Dinheiro,A1B2C3D4
+314,2023-04-08,CUST314,Masculino,52,Vestuário,4,30,120,Cartão de Débito,A1B2C3D4
+315,2023-06-01,CUST315,Masculino,47,Vestuário,2,30,60,Cartão de Crédito,I9J0K1L2
+316,2023-04-22,CUST316,Feminino,48,Vestuário,2,25,50,Dinheiro,E5F6G7H8
+317,2023-01-30,CUST317,Masculino,22,Eletrodomésticos,3,30,90,Pix,A1B2C3D4
+318,2023-10-24,CUST318,Masculino,61,Vestuário,1,25,25,Cartão de Débito,I9J0K1L2
+319,2023-10-05,CUST319,Masculino,31,Vestuário,1,500,500,Cartão de Crédito,I9J0K1L2
+320,2023-02-01,CUST320,Feminino,28,Eletrodomésticos,4,300,1200,Pix,I9J0K1L2
+321,2023-06-10,CUST321,Feminino,26,Eletrodomésticos,2,25,50,Cartão de Débito,A1B2C3D4
+322,2023-01-30,CUST322,Masculino,51,Eletrodomésticos,1,500,500,Cartão de Débito,E5F6G7H8
+323,2023-01-26,CUST323,Feminino,29,Beleza,3,300,900,Cartão de Crédito,A1B2C3D4
+324,2023-10-27,CUST324,Feminino,52,Eletrodomésticos,3,50,150,Cartão de Débito,I9J0K1L2
+325,2023-09-02,CUST325,Feminino,52,Eletrodomésticos,2,25,50,Pix,M3N4O5P6
+326,2023-09-15,CUST326,Feminino,18,Vestuário,3,25,75,Cartão de Débito,I9J0K1L2
+327,2023-09-29,CUST327,Masculino,57,Eletrodomésticos,3,50,150,Dinheiro,E5F6G7H8
+328,2023-03-22,CUST328,Masculino,39,Beleza,2,50,100,Pix,I9J0K1L2
+329,2023-01-30,CUST329,Feminino,46,Eletrodomésticos,4,25,100,Cartão de Crédito,E5F6G7H8
+330,2023-09-18,CUST330,Feminino,25,Beleza,4,50,200,Cartão de Débito,A1B2C3D4
+331,2023-02-11,CUST331,Masculino,28,Eletrodomésticos,3,30,90,Pix,A1B2C3D4
+332,2023-04-06,CUST332,Masculino,58,Eletrodomésticos,4,300,1200,Dinheiro,I9J0K1L2
+333,2023-02-05,CUST333,Feminino,54,Eletrodomésticos,4,300,1200,Pix,E5F6G7H8
+334,2023-11-01,CUST334,Masculino,31,Eletrodomésticos,3,300,900,Cartão de Débito,A1B2C3D4
+335,2023-02-04,CUST335,Feminino,47,Beleza,4,30,120,Dinheiro,I9J0K1L2
+336,2023-12-12,CUST336,Feminino,52,Beleza,3,50,150,Dinheiro,E5F6G7H8
+337,2023-05-01,CUST337,Masculino,38,Vestuário,1,500,500,Cartão de Débito,A1B2C3D4
+338,2023-07-26,CUST338,Masculino,54,Beleza,2,50,100,Cartão de Débito,A1B2C3D4
+339,2023-03-03,CUST339,Feminino,22,Eletrodomésticos,2,25,50,Cartão de Crédito,A1B2C3D4
+340,2023-10-19,CUST340,Feminino,36,Vestuário,4,300,1200,Boleto,E5F6G7H8
+341,2023-05-07,CUST341,Masculino,31,Vestuário,4,50,200,Cartão de Crédito,M3N4O5P6
+342,2023-10-24,CUST342,Feminino,43,Vestuário,4,500,2000,Dinheiro,E5F6G7H8
+343,2023-11-01,CUST343,Masculino,21,Eletrodomésticos,2,25,50,Pix,M3N4O5P6
+344,2023-01-21,CUST344,Feminino,42,Beleza,1,30,30,Boleto,M3N4O5P6
+345,2023-11-14,CUST345,Masculino,62,Eletrodomésticos,1,30,30,Boleto,M3N4O5P6
+346,2023-02-11,CUST346,Masculino,59,Vestuário,2,500,1000,Dinheiro,I9J0K1L2
+347,2023-08-03,CUST347,Masculino,42,Eletrodomésticos,1,25,25,Boleto,E5F6G7H8
+348,2023-12-03,CUST348,Feminino,35,Eletrodomésticos,2,300,600,Boleto,A1B2C3D4
+349,2023-10-26,CUST349,Feminino,57,Beleza,1,50,50,Cartão de Débito,E5F6G7H8
+350,2023-10-17,CUST350,Masculino,25,Beleza,3,25,75,Cartão de Crédito,M3N4O5P6
+351,2023-09-25,CUST351,Feminino,56,Vestuário,3,30,90,Pix,I9J0K1L2
+352,2023-06-11,CUST352,Masculino,57,Eletrodomésticos,2,500,1000,Cartão de Crédito,A1B2C3D4
+353,2023-05-14,CUST353,Masculino,31,Eletrodomésticos,1,500,500,Dinheiro,M3N4O5P6
+354,2023-04-15,CUST354,Feminino,49,Beleza,4,50,200,Pix,M3N4O5P6
+355,2023-12-09,CUST355,Feminino,55,Eletrodomésticos,1,500,500,Cartão de Débito,I9J0K1L2
+356,2023-06-10,CUST356,Masculino,50,Eletrodomésticos,3,500,1500,Cartão de Crédito,M3N4O5P6
+357,2023-05-03,CUST357,Feminino,40,Eletrodomésticos,3,25,75,Cartão de Crédito,A1B2C3D4
+358,2023-05-16,CUST358,Feminino,32,Beleza,1,300,300,Dinheiro,M3N4O5P6
+359,2023-07-22,CUST359,Masculino,50,Vestuário,1,50,50,Boleto,M3N4O5P6
+360,2023-03-09,CUST360,Masculino,42,Vestuário,4,25,100,Cartão de Crédito,M3N4O5P6
+361,2023-12-10,CUST361,Feminino,34,Eletrodomésticos,4,300,1200,Dinheiro,A1B2C3D4
+362,2023-11-27,CUST362,Masculino,50,Vestuário,1,25,25,Dinheiro,I9J0K1L2
+363,2023-06-03,CUST363,Masculino,64,Beleza,1,25,25,Cartão de Débito,E5F6G7H8
+364,2023-08-23,CUST364,Feminino,19,Beleza,1,500,500,Boleto,E5F6G7H8
+365,2023-06-11,CUST365,Masculino,31,Vestuário,1,300,300,Cartão de Crédito,A1B2C3D4
+366,2023-02-07,CUST366,Masculino,57,Vestuário,2,50,100,Cartão de Débito,M3N4O5P6
+367,2023-01-05,CUST367,Feminino,57,Eletrodomésticos,1,50,50,Cartão de Crédito,M3N4O5P6
+368,2023-08-23,CUST368,Feminino,56,Vestuário,4,300,1200,Boleto,E5F6G7H8
+369,2023-11-15,CUST369,Masculino,23,Eletrodomésticos,3,500,1500,Cartão de Débito,M3N4O5P6
+370,2023-10-16,CUST370,Masculino,23,Eletrodomésticos,2,30,60,Boleto,M3N4O5P6
+371,2023-02-21,CUST371,Feminino,20,Beleza,1,25,25,Cartão de Débito,E5F6G7H8
+372,2023-02-07,CUST372,Feminino,24,Beleza,3,500,1500,Pix,M3N4O5P6
+373,2023-10-03,CUST373,Feminino,25,Beleza,2,300,600,Cartão de Débito,E5F6G7H8
+374,2023-04-20,CUST374,Feminino,59,Beleza,3,25,75,Dinheiro,I9J0K1L2
+375,2023-09-17,CUST375,Masculino,32,Vestuário,1,50,50,Cartão de Débito,E5F6G7H8
+376,2023-05-16,CUST376,Feminino,64,Beleza,1,30,30,Cartão de Crédito,M3N4O5P6
+377,2023-03-09,CUST377,Feminino,46,Vestuário,4,50,200,Cartão de Crédito,A1B2C3D4
+378,2023-06-28,CUST378,Masculino,50,Beleza,1,300,300,Cartão de Débito,E5F6G7H8
+379,2023-02-05,CUST379,Feminino,47,Vestuário,1,25,25,Pix,I9J0K1L2
+380,2023-05-06,CUST380,Masculino,56,Eletrodomésticos,2,300,600,Boleto,E5F6G7H8
+381,2023-07-09,CUST381,Feminino,44,Vestuário,4,25,100,Cartão de Débito,I9J0K1L2
+382,2023-05-26,CUST382,Feminino,53,Vestuário,2,500,1000,Pix,I9J0K1L2
+383,2023-03-22,CUST383,Feminino,46,Beleza,3,30,90,Boleto,M3N4O5P6
+384,2023-08-13,CUST384,Masculino,55,Vestuário,1,500,500,Boleto,A1B2C3D4
+385,2023-10-06,CUST385,Masculino,50,Eletrodomésticos,3,500,1500,Pix,I9J0K1L2
+386,2023-12-27,CUST386,Feminino,54,Eletrodomésticos,2,300,600,Dinheiro,A1B2C3D4
+387,2023-06-04,CUST387,Masculino,44,Beleza,1,30,30,Pix,M3N4O5P6
+388,2023-11-10,CUST388,Masculino,50,Eletrodomésticos,1,25,25,Dinheiro,E5F6G7H8
+389,2023-12-01,CUST389,Masculino,21,Vestuário,2,25,50,Boleto,I9J0K1L2
+390,2023-09-28,CUST390,Masculino,39,Eletrodomésticos,2,50,100,Pix,I9J0K1L2
+391,2023-01-05,CUST391,Masculino,19,Beleza,2,25,50,Dinheiro,A1B2C3D4
+392,2023-12-08,CUST392,Masculino,27,Vestuário,2,300,600,Dinheiro,M3N4O5P6
+393,2023-10-11,CUST393,Feminino,22,Beleza,2,500,1000,Cartão de Crédito,M3N4O5P6
+394,2023-06-03,CUST394,Feminino,27,Vestuário,1,500,500,Cartão de Crédito,A1B2C3D4
+395,2023-12-06,CUST395,Masculino,50,Eletrodomésticos,2,500,1000,Pix,M3N4O5P6
+396,2023-02-23,CUST396,Feminino,55,Beleza,1,30,30,Cartão de Débito,I9J0K1L2
+397,2023-03-10,CUST397,Feminino,30,Beleza,1,25,25,Boleto,M3N4O5P6
+398,2023-05-16,CUST398,Feminino,48,Vestuário,2,300,600,Dinheiro,E5F6G7H8
+399,2023-03-01,CUST399,Feminino,64,Beleza,2,30,60,Boleto,A1B2C3D4
+400,2023-02-24,CUST400,Masculino,53,Vestuário,4,50,200,Cartão de Crédito,M3N4O5P6
+401,2023-10-11,CUST401,Feminino,62,Vestuário,1,300,300,Boleto,A1B2C3D4
+402,2023-03-21,CUST402,Feminino,41,Vestuário,2,300,600,Pix,E5F6G7H8
+403,2023-05-20,CUST403,Masculino,32,Vestuário,2,300,600,Cartão de Débito,I9J0K1L2
+404,2023-05-25,CUST404,Masculino,46,Eletrodomésticos,2,500,1000,Dinheiro,A1B2C3D4
+405,2023-11-06,CUST405,Feminino,25,Vestuário,4,300,1200,Boleto,A1B2C3D4
+406,2023-04-18,CUST406,Feminino,22,Beleza,4,25,100,Cartão de Débito,E5F6G7H8
+407,2023-06-25,CUST407,Feminino,46,Eletrodomésticos,3,300,900,Pix,A1B2C3D4
+408,2023-04-15,CUST408,Feminino,64,Beleza,1,500,500,Pix,E5F6G7H8
+409,2023-12-18,CUST409,Feminino,21,Eletrodomésticos,3,300,900,Cartão de Crédito,E5F6G7H8
+410,2023-11-21,CUST410,Feminino,29,Vestuário,2,50,100,Boleto,I9J0K1L2
+411,2023-05-16,CUST411,Masculino,62,Eletrodomésticos,4,50,200,Cartão de Crédito,M3N4O5P6
+412,2023-09-16,CUST412,Feminino,19,Eletrodomésticos,4,500,2000,Cartão de Crédito,A1B2C3D4
+413,2023-09-08,CUST413,Feminino,44,Beleza,3,25,75,Cartão de Crédito,E5F6G7H8
+414,2023-05-09,CUST414,Masculino,48,Beleza,4,25,100,Cartão de Crédito,E5F6G7H8
+415,2023-01-27,CUST415,Masculino,53,Vestuário,2,30,60,Boleto,A1B2C3D4
+416,2023-02-17,CUST416,Masculino,53,Eletrodomésticos,4,500,2000,Boleto,I9J0K1L2
+417,2023-11-21,CUST417,Masculino,43,Eletrodomésticos,3,300,900,Boleto,A1B2C3D4
+418,2023-08-05,CUST418,Feminino,60,Eletrodomésticos,2,500,1000,Dinheiro,E5F6G7H8
+419,2023-05-22,CUST419,Feminino,44,Vestuário,3,30,90,Boleto,I9J0K1L2
+420,2023-01-23,CUST420,Feminino,22,Vestuário,4,500,2000,Boleto,I9J0K1L2
+421,2023-01-02,CUST421,Feminino,37,Vestuário,3,500,1500,Boleto,I9J0K1L2
+422,2023-06-20,CUST422,Feminino,28,Vestuário,3,30,90,Boleto,E5F6G7H8
+423,2023-03-08,CUST423,Feminino,27,Vestuário,1,25,25,Cartão de Débito,E5F6G7H8
+424,2023-11-23,CUST424,Masculino,57,Beleza,4,300,1200,Dinheiro,A1B2C3D4
+425,2023-05-15,CUST425,Feminino,55,Eletrodomésticos,4,30,120,Cartão de Débito,A1B2C3D4
+426,2023-03-24,CUST426,Masculino,23,Eletrodomésticos,3,50,150,Cartão de Crédito,I9J0K1L2
+427,2023-08-15,CUST427,Masculino,25,Eletrodomésticos,1,25,25,Pix,E5F6G7H8
+428,2023-10-10,CUST428,Feminino,40,Eletrodomésticos,4,50,200,Cartão de Crédito,I9J0K1L2
+429,2023-12-28,CUST429,Masculino,64,Eletrodomésticos,2,25,50,Cartão de Crédito,A1B2C3D4
+430,2023-08-07,CUST430,Feminino,43,Eletrodomésticos,3,300,900,Cartão de Crédito,M3N4O5P6
+431,2023-10-15,CUST431,Masculino,63,Eletrodomésticos,4,300,1200,Cartão de Crédito,I9J0K1L2
+432,2023-01-05,CUST432,Feminino,60,Eletrodomésticos,2,500,1000,Cartão de Débito,I9J0K1L2
+433,2023-02-27,CUST433,Masculino,29,Beleza,4,50,200,Cartão de Crédito,M3N4O5P6
+434,2023-02-08,CUST434,Feminino,43,Eletrodomésticos,2,25,50,Cartão de Crédito,I9J0K1L2
+435,2023-12-20,CUST435,Feminino,30,Beleza,3,300,900,Cartão de Crédito,I9J0K1L2
+436,2023-03-18,CUST436,Feminino,57,Vestuário,4,30,120,Cartão de Débito,E5F6G7H8
+437,2023-10-07,CUST437,Feminino,35,Eletrodomésticos,4,300,1200,Boleto,E5F6G7H8
+438,2023-01-19,CUST438,Feminino,42,Vestuário,1,30,30,Dinheiro,M3N4O5P6
+439,2023-07-09,CUST439,Masculino,50,Vestuário,3,25,75,Cartão de Crédito,E5F6G7H8
+440,2023-10-26,CUST440,Masculino,64,Vestuário,2,300,600,Pix,E5F6G7H8
+441,2023-10-10,CUST441,Masculino,57,Beleza,4,300,1200,Cartão de Crédito,I9J0K1L2
+442,2023-03-17,CUST442,Feminino,60,Vestuário,4,25,100,Dinheiro,A1B2C3D4
+443,2023-08-09,CUST443,Masculino,29,Vestuário,2,300,600,Boleto,E5F6G7H8
+444,2023-03-07,CUST444,Feminino,61,Vestuário,3,30,90,Dinheiro,A1B2C3D4
+445,2023-01-22,CUST445,Feminino,53,Eletrodomésticos,1,300,300,Dinheiro,I9J0K1L2
+446,2023-06-07,CUST446,Masculino,21,Eletrodomésticos,1,50,50,Boleto,A1B2C3D4
+447,2023-07-06,CUST447,Masculino,22,Beleza,4,500,2000,Dinheiro,M3N4O5P6
+448,2023-01-21,CUST448,Feminino,54,Beleza,2,30,60,Dinheiro,A1B2C3D4
+449,2023-07-03,CUST449,Masculino,25,Eletrodomésticos,4,50,200,Cartão de Crédito,E5F6G7H8
+450,2023-04-18,CUST450,Feminino,59,Beleza,2,25,50,Pix,A1B2C3D4
+451,2023-12-16,CUST451,Feminino,45,Eletrodomésticos,1,30,30,Cartão de Débito,E5F6G7H8
+452,2023-05-08,CUST452,Feminino,48,Vestuário,3,500,1500,Cartão de Crédito,A1B2C3D4
+453,2023-12-08,CUST453,Feminino,26,Vestuário,2,500,1000,Cartão de Débito,E5F6G7H8
+454,2023-02-22,CUST454,Feminino,46,Beleza,1,25,25,Dinheiro,I9J0K1L2
+455,2023-07-01,CUST455,Masculino,31,Eletrodomésticos,4,25,100,Pix,E5F6G7H8
+456,2023-10-14,CUST456,Masculino,57,Eletrodomésticos,2,30,60,Boleto,E5F6G7H8
+457,2023-07-28,CUST457,Feminino,58,Beleza,3,300,900,Cartão de Débito,A1B2C3D4
+458,2023-11-14,CUST458,Feminino,39,Eletrodomésticos,4,25,100,Pix,M3N4O5P6
+459,2023-03-21,CUST459,Masculino,28,Vestuário,4,300,1200,Boleto,A1B2C3D4
+460,2023-05-02,CUST460,Masculino,40,Beleza,1,50,50,Cartão de Débito,A1B2C3D4
+461,2023-03-25,CUST461,Feminino,18,Beleza,2,500,1000,Cartão de Crédito,E5F6G7H8
+462,2023-04-01,CUST462,Masculino,63,Eletrodomésticos,4,300,1200,Cartão de Crédito,A1B2C3D4
+463,2023-07-31,CUST463,Feminino,54,Beleza,3,500,1500,Dinheiro,M3N4O5P6
+464,2023-01-13,CUST464,Masculino,38,Eletrodomésticos,2,300,600,Cartão de Débito,A1B2C3D4
+465,2023-04-02,CUST465,Feminino,43,Eletrodomésticos,3,50,150,Cartão de Crédito,A1B2C3D4
+466,2023-06-20,CUST466,Masculino,63,Eletrodomésticos,4,25,100,Cartão de Débito,M3N4O5P6
+467,2023-07-30,CUST467,Feminino,53,Eletrodomésticos,3,50,150,Cartão de Crédito,E5F6G7H8
+468,2023-12-09,CUST468,Masculino,40,Eletrodomésticos,1,25,25,Dinheiro,M3N4O5P6
+469,2023-05-08,CUST469,Masculino,18,Beleza,3,25,75,Cartão de Débito,A1B2C3D4
+470,2023-05-17,CUST470,Feminino,57,Vestuário,2,500,1000,Cartão de Débito,M3N4O5P6
+471,2023-03-23,CUST471,Masculino,32,Vestuário,3,50,150,Pix,A1B2C3D4
+472,2023-12-26,CUST472,Feminino,38,Beleza,3,300,900,Pix,A1B2C3D4
+473,2023-02-25,CUST473,Masculino,64,Beleza,1,50,50,Boleto,I9J0K1L2
+474,2023-07-15,CUST474,Feminino,26,Vestuário,3,500,1500,Cartão de Crédito,A1B2C3D4
+475,2023-01-20,CUST475,Masculino,26,Vestuário,3,25,75,Cartão de Débito,A1B2C3D4
+476,2023-08-29,CUST476,Feminino,27,Vestuário,4,500,2000,Dinheiro,A1B2C3D4
+477,2023-04-24,CUST477,Masculino,43,Vestuário,4,30,120,Pix,E5F6G7H8
+478,2023-04-13,CUST478,Feminino,58,Vestuário,2,30,60,Cartão de Débito,A1B2C3D4
+479,2023-08-24,CUST479,Masculino,52,Eletrodomésticos,4,300,1200,Cartão de Crédito,A1B2C3D4
+480,2023-06-29,CUST480,Feminino,42,Beleza,4,500,2000,Dinheiro,I9J0K1L2
+481,2023-06-06,CUST481,Feminino,43,Eletrodomésticos,4,300,1200,Pix,I9J0K1L2
+482,2023-04-27,CUST482,Feminino,28,Vestuário,4,300,1200,Dinheiro,E5F6G7H8
+483,2023-04-25,CUST483,Masculino,55,Vestuário,1,30,30,Pix,M3N4O5P6
+484,2023-01-13,CUST484,Feminino,19,Vestuário,4,300,1200,Boleto,A1B2C3D4
+485,2023-12-04,CUST485,Masculino,24,Eletrodomésticos,1,30,30,Cartão de Crédito,A1B2C3D4
+486,2023-04-09,CUST486,Feminino,35,Eletrodomésticos,1,25,25,Boleto,M3N4O5P6
+487,2023-07-24,CUST487,Masculino,44,Vestuário,4,500,2000,Pix,E5F6G7H8
+488,2023-06-18,CUST488,Feminino,51,Eletrodomésticos,3,300,900,Boleto,I9J0K1L2
+489,2023-05-23,CUST489,Masculino,44,Eletrodomésticos,1,30,30,Cartão de Débito,M3N4O5P6
+490,2023-02-05,CUST490,Masculino,34,Vestuário,3,50,150,Dinheiro,M3N4O5P6
+491,2023-05-23,CUST491,Feminino,60,Eletrodomésticos,3,300,900,Boleto,I9J0K1L2
+492,2023-06-29,CUST492,Masculino,61,Beleza,4,25,100,Boleto,I9J0K1L2
+493,2023-11-25,CUST493,Masculino,41,Beleza,2,25,50,Cartão de Crédito,E5F6G7H8
+494,2023-09-18,CUST494,Feminino,42,Beleza,4,50,200,Cartão de Crédito,A1B2C3D4
+495,2023-07-24,CUST495,Masculino,24,Beleza,2,30,60,Cartão de Crédito,E5F6G7H8
+496,2023-12-14,CUST496,Masculino,23,Vestuário,2,300,600,Dinheiro,I9J0K1L2
+497,2023-10-02,CUST497,Masculino,41,Vestuário,4,30,120,Boleto,I9J0K1L2
+498,2023-06-19,CUST498,Feminino,50,Vestuário,4,25,100,Dinheiro,E5F6G7H8
+499,2023-01-15,CUST499,Masculino,46,Beleza,2,30,60,Cartão de Crédito,M3N4O5P6
+500,2023-03-01,CUST500,Feminino,60,Beleza,4,25,100,Dinheiro,I9J0K1L2
+501,2023-05-14,CUST501,Masculino,39,Eletrodomésticos,2,30,60,Pix,A1B2C3D4
+502,2023-04-02,CUST502,Masculino,43,Eletrodomésticos,3,50,150,Dinheiro,M3N4O5P6
+503,2023-10-25,CUST503,Masculino,45,Beleza,4,500,2000,Dinheiro,A1B2C3D4
+504,2023-05-16,CUST504,Feminino,38,Beleza,3,50,150,Cartão de Crédito,E5F6G7H8
+505,2023-01-20,CUST505,Masculino,24,Beleza,1,50,50,Pix,A1B2C3D4
+506,2023-02-25,CUST506,Masculino,34,Beleza,3,500,1500,Boleto,I9J0K1L2
+507,2023-11-02,CUST507,Feminino,37,Eletrodomésticos,3,500,1500,Dinheiro,E5F6G7H8
+508,2023-08-11,CUST508,Masculino,58,Beleza,2,300,600,Boleto,M3N4O5P6
+509,2023-06-26,CUST509,Feminino,37,Eletrodomésticos,3,300,900,Boleto,I9J0K1L2
+510,2023-06-10,CUST510,Feminino,39,Beleza,4,50,200,Cartão de Débito,E5F6G7H8
+511,2023-08-12,CUST511,Masculino,45,Beleza,2,50,100,Boleto,M3N4O5P6
+512,2023-11-07,CUST512,Feminino,57,Beleza,1,25,25,Dinheiro,E5F6G7H8
+513,2023-09-19,CUST513,Masculino,24,Eletrodomésticos,4,25,100,Dinheiro,I9J0K1L2
+514,2023-03-01,CUST514,Feminino,18,Eletrodomésticos,1,300,300,Cartão de Crédito,I9J0K1L2
+515,2023-07-17,CUST515,Feminino,49,Vestuário,3,300,900,Dinheiro,A1B2C3D4
+516,2023-10-23,CUST516,Masculino,30,Beleza,4,25,100,Cartão de Débito,I9J0K1L2
+517,2023-04-08,CUST517,Feminino,47,Vestuário,4,25,100,Cartão de Débito,E5F6G7H8
+518,2023-05-11,CUST518,Feminino,40,Vestuário,1,30,30,Dinheiro,I9J0K1L2
+519,2023-01-23,CUST519,Feminino,36,Eletrodomésticos,4,30,120,Pix,M3N4O5P6
+520,2023-12-29,CUST520,Feminino,49,Eletrodomésticos,4,25,100,Boleto,I9J0K1L2
+521,2023-08-12,CUST521,Feminino,47,Vestuário,4,30,120,Cartão de Crédito,E5F6G7H8
+522,2023-01-01,CUST522,Masculino,46,Beleza,3,500,1500,Dinheiro,A1B2C3D4
+523,2023-09-24,CUST523,Feminino,62,Eletrodomésticos,1,300,300,Cartão de Débito,I9J0K1L2
+524,2023-10-03,CUST524,Masculino,46,Beleza,4,300,1200,Pix,I9J0K1L2
+525,2023-12-18,CUST525,Feminino,47,Beleza,2,25,50,Cartão de Débito,I9J0K1L2
+526,2023-12-10,CUST526,Masculino,33,Vestuário,2,50,100,Boleto,A1B2C3D4
+527,2023-04-11,CUST527,Masculino,57,Vestuário,2,25,50,Pix,M3N4O5P6
+528,2023-07-06,CUST528,Feminino,36,Vestuário,2,30,60,Boleto,A1B2C3D4
+529,2023-08-09,CUST529,Feminino,35,Vestuário,3,50,150,Cartão de Débito,I9J0K1L2
+530,2023-02-05,CUST530,Feminino,18,Eletrodomésticos,4,30,120,Cartão de Débito,M3N4O5P6
+531,2023-12-07,CUST531,Masculino,31,Eletrodomésticos,1,500,500,Boleto,E5F6G7H8
+532,2023-06-19,CUST532,Feminino,64,Vestuário,4,30,120,Cartão de Débito,A1B2C3D4
+533,2023-11-16,CUST533,Masculino,19,Eletrodomésticos,3,500,1500,Cartão de Débito,M3N4O5P6
+534,2023-06-10,CUST534,Masculino,45,Vestuário,2,500,1000,Pix,E5F6G7H8
+535,2023-12-06,CUST535,Masculino,47,Beleza,3,30,90,Cartão de Crédito,I9J0K1L2
+536,2023-03-05,CUST536,Feminino,55,Beleza,4,30,120,Dinheiro,A1B2C3D4
+537,2023-06-03,CUST537,Feminino,21,Beleza,1,500,500,Pix,A1B2C3D4
+538,2023-09-17,CUST538,Masculino,18,Vestuário,3,50,150,Pix,E5F6G7H8
+539,2023-06-08,CUST539,Masculino,25,Beleza,1,500,500,Cartão de Crédito,E5F6G7H8
+540,2023-12-08,CUST540,Feminino,46,Eletrodomésticos,3,300,900,Cartão de Débito,I9J0K1L2
+541,2023-07-29,CUST541,Masculino,56,Beleza,1,500,500,Pix,A1B2C3D4
+542,2023-06-17,CUST542,Feminino,20,Beleza,1,50,50,Pix,M3N4O5P6
+543,2023-07-26,CUST543,Masculino,49,Beleza,2,300,600,Cartão de Débito,I9J0K1L2
+544,2023-12-23,CUST544,Feminino,27,Eletrodomésticos,1,25,25,Pix,E5F6G7H8
+545,2023-06-01,CUST545,Masculino,27,Vestuário,2,25,50,Cartão de Crédito,I9J0K1L2
+546,2023-10-11,CUST546,Feminino,36,Eletrodomésticos,4,50,200,Pix,I9J0K1L2
+547,2023-03-07,CUST547,Masculino,63,Vestuário,4,500,2000,Dinheiro,M3N4O5P6
+548,2023-04-09,CUST548,Feminino,51,Vestuário,2,30,60,Cartão de Crédito,M3N4O5P6
+549,2023-08-04,CUST549,Feminino,50,Beleza,2,50,100,Boleto,M3N4O5P6
+550,2023-12-07,CUST550,Masculino,40,Vestuário,3,300,900,Dinheiro,I9J0K1L2
+551,2023-07-14,CUST551,Masculino,45,Eletrodomésticos,3,300,900,Cartão de Crédito,E5F6G7H8
+552,2023-12-13,CUST552,Feminino,49,Eletrodomésticos,3,25,75,Cartão de Débito,M3N4O5P6
+553,2023-03-31,CUST553,Masculino,24,Vestuário,4,300,1200,Cartão de Débito,I9J0K1L2
+554,2023-11-12,CUST554,Feminino,46,Beleza,3,50,150,Dinheiro,E5F6G7H8
+555,2023-10-19,CUST555,Masculino,25,Beleza,1,300,300,Cartão de Débito,E5F6G7H8
+556,2023-06-04,CUST556,Feminino,18,Eletrodomésticos,1,50,50,Cartão de Crédito,I9J0K1L2
+557,2023-07-27,CUST557,Feminino,20,Beleza,3,30,90,Boleto,I9J0K1L2
+558,2023-10-08,CUST558,Feminino,41,Vestuário,1,25,25,Cartão de Crédito,I9J0K1L2
+559,2023-01-01,CUST559,Feminino,40,Vestuário,4,300,1200,Cartão de Crédito,E5F6G7H8
+560,2023-06-05,CUST560,Feminino,25,Eletrodomésticos,1,50,50,Dinheiro,M3N4O5P6
+561,2023-05-27,CUST561,Feminino,64,Vestuário,4,500,2000,Dinheiro,E5F6G7H8
+562,2023-04-18,CUST562,Masculino,54,Eletrodomésticos,2,25,50,Dinheiro,M3N4O5P6
+563,2023-08-09,CUST563,Masculino,20,Vestuário,2,30,60,Cartão de Débito,A1B2C3D4
+564,2023-10-24,CUST564,Masculino,50,Eletrodomésticos,2,50,100,Dinheiro,E5F6G7H8
+565,2023-11-07,CUST565,Feminino,45,Beleza,2,30,60,Cartão de Débito,E5F6G7H8
+566,2023-12-02,CUST566,Feminino,64,Vestuário,1,30,30,Cartão de Débito,M3N4O5P6
+567,2023-06-14,CUST567,Feminino,25,Vestuário,3,300,900,Dinheiro,M3N4O5P6
+568,2023-08-27,CUST568,Feminino,51,Eletrodomésticos,1,300,300,Dinheiro,I9J0K1L2
+569,2023-08-15,CUST569,Masculino,52,Eletrodomésticos,4,50,200,Dinheiro,I9J0K1L2
+570,2023-08-15,CUST570,Masculino,49,Vestuário,1,500,500,Pix,A1B2C3D4
+571,2023-12-12,CUST571,Feminino,41,Eletrodomésticos,1,50,50,Boleto,E5F6G7H8
+572,2023-04-20,CUST572,Masculino,31,Vestuário,4,500,2000,Cartão de Débito,A1B2C3D4
+573,2023-09-19,CUST573,Masculino,49,Beleza,2,30,60,Cartão de Débito,E5F6G7H8
+574,2023-08-31,CUST574,Feminino,63,Eletrodomésticos,2,25,50,Cartão de Crédito,A1B2C3D4
+575,2023-03-28,CUST575,Masculino,60,Vestuário,2,50,100,Pix,E5F6G7H8
+576,2023-12-04,CUST576,Feminino,33,Beleza,3,50,150,Cartão de Crédito,A1B2C3D4
+577,2023-02-13,CUST577,Masculino,21,Beleza,4,500,2000,Dinheiro,A1B2C3D4
+578,2023-05-26,CUST578,Feminino,54,Vestuário,4,30,120,Cartão de Crédito,E5F6G7H8
+579,2023-09-21,CUST579,Feminino,38,Eletrodomésticos,1,30,30,Cartão de Débito,M3N4O5P6
+580,2023-12-06,CUST580,Feminino,31,Vestuário,3,500,1500,Boleto,I9J0K1L2
+581,2023-11-21,CUST581,Feminino,48,Beleza,2,30,60,Cartão de Débito,E5F6G7H8
+582,2023-11-14,CUST582,Masculino,35,Vestuário,3,300,900,Boleto,M3N4O5P6
+583,2023-06-21,CUST583,Feminino,24,Eletrodomésticos,4,25,100,Boleto,I9J0K1L2
+584,2023-02-17,CUST584,Feminino,27,Beleza,4,50,200,Pix,A1B2C3D4
+585,2023-05-01,CUST585,Feminino,24,Vestuário,1,25,25,Dinheiro,E5F6G7H8
+586,2023-12-11,CUST586,Masculino,50,Eletrodomésticos,1,50,50,Cartão de Crédito,E5F6G7H8
+587,2023-06-08,CUST587,Feminino,40,Beleza,4,300,1200,Cartão de Débito,A1B2C3D4
+588,2023-04-26,CUST588,Masculino,38,Eletrodomésticos,2,30,60,Cartão de Crédito,A1B2C3D4
+589,2023-04-12,CUST589,Feminino,36,Beleza,2,500,1000,Pix,A1B2C3D4
+590,2023-03-17,CUST590,Masculino,36,Vestuário,3,300,900,Cartão de Débito,I9J0K1L2
+591,2023-01-13,CUST591,Masculino,53,Eletrodomésticos,4,25,100,Cartão de Crédito,E5F6G7H8
+592,2023-01-24,CUST592,Feminino,46,Beleza,4,500,2000,Cartão de Crédito,I9J0K1L2
+593,2023-05-06,CUST593,Masculino,35,Eletrodomésticos,2,30,60,Cartão de Crédito,E5F6G7H8
+594,2023-09-01,CUST594,Feminino,19,Eletrodomésticos,2,300,600,Cartão de Débito,E5F6G7H8
+595,2023-11-09,CUST595,Feminino,18,Vestuário,4,500,2000,Cartão de Débito,A1B2C3D4
+596,2023-02-07,CUST596,Feminino,64,Eletrodomésticos,1,300,300,Cartão de Crédito,M3N4O5P6
+597,2023-08-22,CUST597,Masculino,22,Beleza,4,300,1200,Boleto,M3N4O5P6
+598,2023-08-01,CUST598,Masculino,37,Beleza,4,30,120,Pix,I9J0K1L2
+599,2023-11-19,CUST599,Feminino,28,Beleza,2,50,100,Cartão de Crédito,I9J0K1L2
+600,2023-10-22,CUST600,Feminino,59,Beleza,2,500,1000,Boleto,I9J0K1L2
+601,2023-04-10,CUST601,Masculino,19,Vestuário,1,30,30,Boleto,A1B2C3D4
+602,2023-12-23,CUST602,Feminino,20,Eletrodomésticos,1,300,300,Pix,I9J0K1L2
+603,2023-07-16,CUST603,Feminino,40,Vestuário,3,30,90,Pix,I9J0K1L2
+604,2023-09-11,CUST604,Feminino,29,Eletrodomésticos,4,50,200,Boleto,A1B2C3D4
+605,2023-07-24,CUST605,Masculino,37,Eletrodomésticos,2,500,1000,Pix,E5F6G7H8
+606,2023-05-05,CUST606,Masculino,22,Eletrodomésticos,1,50,50,Boleto,A1B2C3D4
+607,2023-03-17,CUST607,Masculino,54,Vestuário,3,25,75,Boleto,M3N4O5P6
+608,2023-12-02,CUST608,Feminino,55,Eletrodomésticos,3,500,1500,Cartão de Débito,M3N4O5P6
+609,2023-12-19,CUST609,Feminino,47,Vestuário,2,50,100,Cartão de Crédito,E5F6G7H8
+610,2023-01-03,CUST610,Feminino,26,Beleza,2,300,600,Pix,M3N4O5P6
+611,2023-02-24,CUST611,Masculino,51,Beleza,3,500,1500,Cartão de Crédito,I9J0K1L2
+612,2023-08-06,CUST612,Feminino,61,Eletrodomésticos,1,500,500,Pix,E5F6G7H8
+613,2023-04-23,CUST613,Feminino,52,Vestuário,3,30,90,Cartão de Débito,E5F6G7H8
+614,2023-04-01,CUST614,Feminino,39,Beleza,4,300,1200,Cartão de Crédito,E5F6G7H8
+615,2023-12-23,CUST615,Feminino,61,Vestuário,4,25,100,Cartão de Crédito,A1B2C3D4
+616,2023-09-23,CUST616,Masculino,41,Vestuário,2,50,100,Dinheiro,M3N4O5P6
+617,2023-08-26,CUST617,Masculino,34,Eletrodomésticos,1,30,30,Boleto,A1B2C3D4
+618,2023-01-26,CUST618,Feminino,27,Beleza,1,50,50,Boleto,I9J0K1L2
+619,2023-10-13,CUST619,Masculino,47,Eletrodomésticos,4,25,100,Cartão de Débito,A1B2C3D4
+620,2023-05-08,CUST620,Masculino,63,Eletrodomésticos,3,25,75,Dinheiro,E5F6G7H8
+621,2023-03-04,CUST621,Feminino,40,Beleza,2,500,1000,Boleto,A1B2C3D4
+622,2023-08-22,CUST622,Feminino,49,Beleza,3,25,75,Cartão de Débito,M3N4O5P6
+623,2023-03-10,CUST623,Masculino,34,Vestuário,3,50,150,Boleto,A1B2C3D4
+624,2023-08-26,CUST624,Feminino,34,Beleza,3,300,900,Cartão de Crédito,I9J0K1L2
+625,2023-12-08,CUST625,Masculino,31,Vestuário,1,300,300,Pix,I9J0K1L2
+626,2023-09-29,CUST626,Feminino,26,Vestuário,4,500,2000,Cartão de Crédito,A1B2C3D4
+627,2023-10-14,CUST627,Masculino,57,Vestuário,1,50,50,Pix,E5F6G7H8
+628,2023-11-01,CUST628,Feminino,19,Beleza,4,50,200,Cartão de Crédito,E5F6G7H8
+629,2023-06-12,CUST629,Masculino,62,Eletrodomésticos,2,25,50,Boleto,I9J0K1L2
+630,2023-08-15,CUST630,Masculino,42,Vestuário,2,50,100,Pix,A1B2C3D4
+631,2023-11-10,CUST631,Masculino,56,Eletrodomésticos,3,30,90,Boleto,A1B2C3D4
+632,2023-09-16,CUST632,Feminino,26,Eletrodomésticos,4,25,100,Cartão de Débito,E5F6G7H8
+633,2023-08-07,CUST633,Masculino,39,Beleza,4,30,120,Pix,M3N4O5P6
+634,2023-10-08,CUST634,Masculino,60,Eletrodomésticos,4,500,2000,Cartão de Débito,M3N4O5P6
+635,2023-08-17,CUST635,Feminino,63,Eletrodomésticos,3,300,900,Cartão de Débito,M3N4O5P6
+636,2023-03-23,CUST636,Feminino,21,Beleza,3,500,1500,Pix,A1B2C3D4
+637,2023-09-01,CUST637,Masculino,43,Vestuário,2,300,600,Boleto,A1B2C3D4
+638,2023-08-19,CUST638,Masculino,46,Eletrodomésticos,1,500,500,Cartão de Débito,M3N4O5P6
+639,2023-05-13,CUST639,Feminino,62,Beleza,4,50,200,Cartão de Débito,M3N4O5P6
+640,2023-05-07,CUST640,Feminino,51,Eletrodomésticos,4,30,120,Cartão de Crédito,I9J0K1L2
+641,2023-11-23,CUST641,Feminino,40,Eletrodomésticos,1,300,300,Dinheiro,E5F6G7H8
+642,2023-05-22,CUST642,Feminino,54,Vestuário,4,25,100,Dinheiro,E5F6G7H8
+643,2023-09-24,CUST643,Feminino,28,Eletrodomésticos,3,30,90,Pix,E5F6G7H8
+644,2023-09-06,CUST644,Masculino,23,Beleza,3,25,75,Boleto,M3N4O5P6
+645,2023-11-17,CUST645,Feminino,35,Eletrodomésticos,4,30,120,Cartão de Crédito,A1B2C3D4
+646,2023-05-03,CUST646,Masculino,38,Vestuário,3,30,90,Boleto,E5F6G7H8
+647,2023-05-21,CUST647,Masculino,59,Vestuário,3,500,1500,Cartão de Crédito,M3N4O5P6
+648,2023-08-14,CUST648,Masculino,53,Beleza,4,300,1200,Cartão de Crédito,M3N4O5P6
+649,2023-02-09,CUST649,Feminino,58,Vestuário,2,300,600,Dinheiro,E5F6G7H8
+650,2024-01-01,CUST650,Masculino,55,Eletrodomésticos,1,30,30,Cartão de Crédito,E5F6G7H8
+651,2023-05-27,CUST651,Masculino,51,Vestuário,3,50,150,Cartão de Crédito,M3N4O5P6
+652,2023-05-01,CUST652,Feminino,34,Beleza,2,50,100,Pix,M3N4O5P6
+653,2023-05-20,CUST653,Masculino,54,Vestuário,3,25,75,Dinheiro,E5F6G7H8
+654,2023-06-21,CUST654,Masculino,42,Vestuário,3,25,75,Dinheiro,A1B2C3D4
+655,2023-06-13,CUST655,Feminino,55,Vestuário,1,500,500,Pix,M3N4O5P6
+656,2023-10-04,CUST656,Masculino,29,Beleza,3,30,90,Cartão de Débito,M3N4O5P6
+657,2023-02-11,CUST657,Masculino,40,Vestuário,1,25,25,Boleto,I9J0K1L2
+658,2023-03-12,CUST658,Masculino,59,Vestuário,1,25,25,Pix,M3N4O5P6
+659,2023-03-19,CUST659,Feminino,39,Eletrodomésticos,1,30,30,Boleto,M3N4O5P6
+660,2023-04-29,CUST660,Feminino,38,Beleza,2,500,1000,Dinheiro,A1B2C3D4
+661,2023-07-16,CUST661,Feminino,44,Vestuário,4,25,100,Pix,I9J0K1L2
+662,2023-12-22,CUST662,Masculino,48,Beleza,2,500,1000,Dinheiro,M3N4O5P6
+663,2023-03-20,CUST663,Masculino,23,Vestuário,4,300,1200,Cartão de Débito,I9J0K1L2
+664,2023-12-28,CUST664,Feminino,44,Vestuário,4,500,2000,Cartão de Débito,I9J0K1L2
+665,2023-04-20,CUST665,Masculino,57,Vestuário,1,50,50,Boleto,I9J0K1L2
+666,2023-02-02,CUST666,Masculino,51,Eletrodomésticos,3,50,150,Boleto,E5F6G7H8
+667,2023-08-01,CUST667,Feminino,29,Eletrodomésticos,1,500,500,Boleto,A1B2C3D4
+668,2023-07-28,CUST668,Feminino,62,Eletrodomésticos,3,50,150,Cartão de Crédito,E5F6G7H8
+669,2023-06-19,CUST669,Masculino,24,Beleza,4,300,1200,Pix,M3N4O5P6
+670,2023-10-05,CUST670,Masculino,27,Beleza,1,30,30,Dinheiro,E5F6G7H8
+671,2023-08-27,CUST671,Masculino,62,Eletrodomésticos,3,50,150,Pix,I9J0K1L2
+672,2023-08-01,CUST672,Feminino,34,Beleza,2,50,100,Cartão de Crédito,E5F6G7H8
+673,2023-02-01,CUST673,Feminino,43,Vestuário,3,500,1500,Boleto,I9J0K1L2
+674,2023-04-16,CUST674,Feminino,38,Vestuário,1,300,300,Pix,I9J0K1L2
+675,2023-08-04,CUST675,Feminino,45,Vestuário,2,30,60,Cartão de Débito,A1B2C3D4
+676,2023-07-19,CUST676,Masculino,63,Eletrodomésticos,3,500,1500,Boleto,E5F6G7H8
+677,2023-10-27,CUST677,Feminino,19,Beleza,3,500,1500,Dinheiro,A1B2C3D4
+678,2023-12-23,CUST678,Feminino,60,Eletrodomésticos,3,300,900,Cartão de Crédito,A1B2C3D4
+679,2023-01-11,CUST679,Feminino,18,Beleza,3,30,90,Pix,M3N4O5P6
+680,2023-10-22,CUST680,Feminino,53,Vestuário,3,300,900,Cartão de Débito,E5F6G7H8
+681,2023-07-14,CUST681,Feminino,43,Eletrodomésticos,2,30,60,Boleto,E5F6G7H8
+682,2023-09-02,CUST682,Masculino,46,Beleza,4,300,1200,Cartão de Crédito,M3N4O5P6
+683,2023-01-04,CUST683,Masculino,38,Beleza,2,500,1000,Dinheiro,I9J0K1L2
+684,2023-06-30,CUST684,Feminino,28,Vestuário,2,500,1000,Dinheiro,A1B2C3D4
+685,2023-06-02,CUST685,Masculino,57,Eletrodomésticos,2,25,50,Dinheiro,E5F6G7H8
+686,2023-07-19,CUST686,Feminino,28,Eletrodomésticos,4,50,200,Cartão de Crédito,I9J0K1L2
+687,2023-08-03,CUST687,Feminino,53,Eletrodomésticos,1,300,300,Boleto,E5F6G7H8
+688,2023-10-03,CUST688,Masculino,56,Vestuário,4,25,100,Cartão de Débito,A1B2C3D4
+689,2023-10-07,CUST689,Masculino,57,Eletrodomésticos,2,50,100,Cartão de Débito,I9J0K1L2
+690,2023-11-05,CUST690,Feminino,52,Vestuário,3,300,900,Cartão de Débito,A1B2C3D4
+691,2023-04-23,CUST691,Feminino,51,Vestuário,3,30,90,Cartão de Débito,E5F6G7H8
+692,2023-09-07,CUST692,Feminino,64,Vestuário,2,50,100,Cartão de Débito,M3N4O5P6
+693,2023-04-23,CUST693,Masculino,41,Beleza,3,500,1500,Cartão de Crédito,M3N4O5P6
+694,2023-05-20,CUST694,Feminino,39,Eletrodomésticos,2,25,50,Boleto,E5F6G7H8
+695,2023-08-12,CUST695,Feminino,22,Eletrodomésticos,3,50,150,Dinheiro,M3N4O5P6
+696,2023-09-06,CUST696,Feminino,50,Vestuário,4,50,200,Dinheiro,M3N4O5P6
+697,2023-01-15,CUST697,Masculino,53,Vestuário,1,500,500,Dinheiro,A1B2C3D4
+698,2023-07-19,CUST698,Feminino,64,Eletrodomésticos,1,300,300,Dinheiro,M3N4O5P6
+699,2023-06-22,CUST699,Feminino,37,Vestuário,4,30,120,Cartão de Crédito,A1B2C3D4
+700,2023-12-09,CUST700,Masculino,36,Eletrodomésticos,4,500,2000,Cartão de Crédito,I9J0K1L2
+701,2023-12-14,CUST701,Feminino,52,Beleza,2,30,60,Cartão de Crédito,M3N4O5P6
+702,2023-07-27,CUST702,Feminino,60,Vestuário,2,300,600,Cartão de Crédito,M3N4O5P6
+703,2023-03-26,CUST703,Masculino,34,Eletrodomésticos,2,50,100,Cartão de Débito,A1B2C3D4
+704,2023-08-28,CUST704,Feminino,62,Vestuário,3,30,90,Pix,A1B2C3D4
+705,2023-03-07,CUST705,Masculino,60,Eletrodomésticos,2,25,50,Boleto,I9J0K1L2
+706,2023-11-15,CUST706,Masculino,51,Eletrodomésticos,4,25,100,Pix,E5F6G7H8
+707,2023-10-01,CUST707,Feminino,26,Vestuário,1,500,500,Dinheiro,E5F6G7H8
+708,2023-01-14,CUST708,Feminino,43,Beleza,3,300,900,Cartão de Crédito,E5F6G7H8
+709,2023-07-21,CUST709,Feminino,19,Eletrodomésticos,2,500,1000,Boleto,E5F6G7H8
+710,2023-10-31,CUST710,Feminino,26,Eletrodomésticos,3,500,1500,Dinheiro,I9J0K1L2
+711,2023-10-16,CUST711,Masculino,26,Eletrodomésticos,3,500,1500,Cartão de Débito,M3N4O5P6
+712,2023-12-06,CUST712,Feminino,57,Beleza,2,25,50,Pix,A1B2C3D4
+713,2023-01-14,CUST713,Masculino,34,Beleza,3,25,75,Cartão de Débito,I9J0K1L2
+714,2023-02-12,CUST714,Feminino,18,Vestuário,1,500,500,Cartão de Débito,A1B2C3D4
+715,2023-11-26,CUST715,Feminino,42,Beleza,4,25,100,Boleto,I9J0K1L2
+716,2023-08-08,CUST716,Feminino,60,Vestuário,4,300,1200,Cartão de Débito,E5F6G7H8
+717,2023-03-11,CUST717,Masculino,57,Vestuário,1,500,500,Cartão de Débito,E5F6G7H8
+718,2023-08-25,CUST718,Feminino,59,Beleza,3,25,75,Cartão de Crédito,A1B2C3D4
+719,2023-04-04,CUST719,Feminino,42,Vestuário,2,30,60,Boleto,E5F6G7H8
+720,2023-01-26,CUST720,Feminino,56,Beleza,3,500,1500,Cartão de Débito,M3N4O5P6
+721,2023-05-14,CUST721,Feminino,52,Vestuário,1,500,500,Cartão de Débito,A1B2C3D4
+722,2023-07-14,CUST722,Masculino,20,Beleza,3,300,900,Cartão de Débito,I9J0K1L2
+723,2023-06-17,CUST723,Feminino,54,Beleza,4,50,200,Dinheiro,I9J0K1L2
+724,2023-04-19,CUST724,Masculino,61,Vestuário,3,50,150,Pix,E5F6G7H8
+725,2023-08-21,CUST725,Masculino,61,Eletrodomésticos,1,300,300,Cartão de Crédito,A1B2C3D4
+726,2023-06-17,CUST726,Masculino,47,Vestuário,4,300,1200,Cartão de Débito,M3N4O5P6
+727,2023-06-22,CUST727,Masculino,55,Beleza,3,300,900,Dinheiro,I9J0K1L2
+728,2023-07-14,CUST728,Masculino,51,Eletrodomésticos,3,50,150,Cartão de Crédito,E5F6G7H8
+729,2023-05-23,CUST729,Masculino,29,Vestuário,4,300,1200,Pix,I9J0K1L2
+730,2023-08-04,CUST730,Feminino,36,Vestuário,2,25,50,Cartão de Débito,I9J0K1L2
+731,2023-05-10,CUST731,Masculino,54,Vestuário,4,500,2000,Pix,E5F6G7H8
+732,2023-02-11,CUST732,Masculino,61,Eletrodomésticos,2,500,1000,Boleto,I9J0K1L2
+733,2023-08-29,CUST733,Masculino,34,Beleza,1,30,30,Dinheiro,M3N4O5P6
+734,2023-01-10,CUST734,Feminino,27,Vestuário,1,30,30,Cartão de Débito,A1B2C3D4
+735,2023-10-04,CUST735,Feminino,64,Vestuário,4,500,2000,Cartão de Débito,M3N4O5P6
+736,2023-01-27,CUST736,Masculino,29,Vestuário,4,25,100,Dinheiro,E5F6G7H8
+737,2023-06-29,CUST737,Feminino,33,Vestuário,1,50,50,Cartão de Crédito,M3N4O5P6
+738,2023-04-25,CUST738,Masculino,41,Vestuário,2,50,100,Dinheiro,M3N4O5P6
+739,2023-11-29,CUST739,Masculino,36,Beleza,1,25,25,Cartão de Crédito,I9J0K1L2
+740,2023-02-05,CUST740,Feminino,25,Beleza,4,50,200,Cartão de Débito,E5F6G7H8
+741,2023-11-30,CUST741,Masculino,48,Vestuário,1,300,300,Dinheiro,I9J0K1L2
+742,2023-01-21,CUST742,Feminino,38,Eletrodomésticos,4,500,2000,Cartão de Débito,E5F6G7H8
+743,2023-01-16,CUST743,Feminino,34,Beleza,4,500,2000,Dinheiro,I9J0K1L2
+744,2023-05-07,CUST744,Masculino,40,Eletrodomésticos,1,25,25,Pix,M3N4O5P6
+745,2023-04-13,CUST745,Masculino,54,Beleza,2,50,100,Dinheiro,M3N4O5P6
+746,2023-01-11,CUST746,Feminino,33,Vestuário,3,30,90,Cartão de Crédito,A1B2C3D4
+747,2023-11-15,CUST747,Masculino,23,Beleza,1,30,30,Cartão de Débito,M3N4O5P6
+748,2023-03-20,CUST748,Masculino,25,Vestuário,3,50,150,Dinheiro,I9J0K1L2
+749,2023-05-03,CUST749,Masculino,42,Beleza,1,30,30,Pix,M3N4O5P6
+750,2023-03-06,CUST750,Feminino,35,Vestuário,3,25,75,Dinheiro,M3N4O5P6
+751,2023-08-31,CUST751,Feminino,42,Vestuário,2,25,50,Cartão de Débito,M3N4O5P6
+752,2023-12-09,CUST752,Masculino,29,Vestuário,2,50,100,Boleto,M3N4O5P6
+753,2023-02-28,CUST753,Feminino,32,Vestuário,1,30,30,Boleto,A1B2C3D4
+754,2023-10-16,CUST754,Feminino,43,Eletrodomésticos,4,25,100,Boleto,I9J0K1L2
+755,2023-04-22,CUST755,Feminino,58,Vestuário,3,25,75,Cartão de Crédito,M3N4O5P6
+756,2023-08-27,CUST756,Feminino,62,Eletrodomésticos,4,300,1200,Dinheiro,M3N4O5P6
+757,2023-12-25,CUST757,Feminino,43,Eletrodomésticos,4,300,1200,Dinheiro,E5F6G7H8
+758,2023-05-12,CUST758,Masculino,64,Vestuário,4,25,100,Dinheiro,M3N4O5P6
+759,2023-07-08,CUST759,Masculino,49,Eletrodomésticos,2,50,100,Boleto,M3N4O5P6
+760,2023-03-27,CUST760,Masculino,27,Beleza,1,500,500,Cartão de Crédito,A1B2C3D4
+761,2023-11-07,CUST761,Feminino,33,Vestuário,1,500,500,Dinheiro,A1B2C3D4
+762,2023-11-07,CUST762,Feminino,24,Eletrodomésticos,2,25,50,Cartão de Crédito,M3N4O5P6
+763,2023-02-28,CUST763,Masculino,34,Vestuário,2,25,50,Dinheiro,A1B2C3D4
+764,2023-03-25,CUST764,Feminino,40,Vestuário,1,25,25,Cartão de Débito,M3N4O5P6
+765,2023-06-09,CUST765,Masculino,43,Vestuário,4,50,200,Cartão de Débito,M3N4O5P6
+766,2023-02-25,CUST766,Masculino,38,Eletrodomésticos,3,300,900,Cartão de Débito,I9J0K1L2
+767,2023-10-24,CUST767,Masculino,39,Beleza,3,25,75,Dinheiro,A1B2C3D4
+768,2023-01-14,CUST768,Feminino,24,Beleza,3,25,75,Pix,A1B2C3D4
+769,2023-06-09,CUST769,Feminino,31,Eletrodomésticos,4,30,120,Boleto,I9J0K1L2
+770,2023-10-22,CUST770,Masculino,32,Vestuário,1,50,50,Pix,E5F6G7H8
+771,2023-12-13,CUST771,Masculino,24,Eletrodomésticos,2,25,50,Cartão de Crédito,E5F6G7H8
+772,2023-07-12,CUST772,Masculino,26,Eletrodomésticos,1,30,30,Cartão de Débito,M3N4O5P6
+773,2023-07-23,CUST773,Masculino,25,Eletrodomésticos,4,500,2000,Cartão de Crédito,I9J0K1L2
+774,2023-04-12,CUST774,Feminino,40,Vestuário,2,25,50,Boleto,A1B2C3D4
+775,2023-02-08,CUST775,Feminino,46,Eletrodomésticos,4,25,100,Cartão de Débito,A1B2C3D4
+776,2023-10-31,CUST776,Masculino,35,Vestuário,3,30,90,Boleto,A1B2C3D4
+777,2023-12-20,CUST777,Masculino,48,Eletrodomésticos,3,50,150,Boleto,M3N4O5P6
+778,2023-11-18,CUST778,Feminino,47,Beleza,4,25,100,Cartão de Débito,I9J0K1L2
+779,2023-05-05,CUST779,Feminino,56,Eletrodomésticos,2,500,1000,Cartão de Crédito,I9J0K1L2
+780,2023-02-22,CUST780,Masculino,52,Eletrodomésticos,2,25,50,Cartão de Débito,M3N4O5P6
+781,2023-12-23,CUST781,Masculino,35,Beleza,1,500,500,Cartão de Crédito,A1B2C3D4
+782,2023-06-04,CUST782,Masculino,59,Vestuário,3,300,900,Pix,I9J0K1L2
+783,2023-12-17,CUST783,Feminino,56,Vestuário,1,300,300,Pix,M3N4O5P6
+784,2023-11-04,CUST784,Feminino,34,Eletrodomésticos,1,500,500,Cartão de Crédito,M3N4O5P6
+785,2023-03-03,CUST785,Feminino,31,Beleza,4,50,200,Boleto,M3N4O5P6
+786,2023-10-17,CUST786,Masculino,48,Vestuário,4,25,100,Boleto,A1B2C3D4
+787,2023-01-22,CUST787,Masculino,41,Eletrodomésticos,1,25,25,Cartão de Crédito,E5F6G7H8
+788,2023-06-27,CUST788,Feminino,52,Beleza,3,300,900,Dinheiro,A1B2C3D4
+789,2023-09-30,CUST789,Feminino,61,Vestuário,4,500,2000,Boleto,I9J0K1L2
+790,2023-08-08,CUST790,Masculino,62,Vestuário,1,25,25,Dinheiro,I9J0K1L2
+791,2023-12-05,CUST791,Feminino,51,Beleza,1,25,25,Pix,A1B2C3D4
+792,2023-07-09,CUST792,Feminino,20,Beleza,1,50,50,Cartão de Crédito,I9J0K1L2
+793,2023-02-05,CUST793,Masculino,54,Beleza,1,30,30,Cartão de Crédito,M3N4O5P6
+794,2023-09-17,CUST794,Feminino,60,Beleza,1,300,300,Cartão de Crédito,E5F6G7H8
+795,2023-11-28,CUST795,Masculino,57,Eletrodomésticos,1,300,300,Cartão de Débito,E5F6G7H8
+796,2023-06-24,CUST796,Masculino,43,Beleza,4,30,120,Dinheiro,M3N4O5P6
+797,2023-01-07,CUST797,Masculino,40,Vestuário,3,25,75,Cartão de Crédito,E5F6G7H8
+798,2023-08-04,CUST798,Masculino,61,Vestuário,1,50,50,Dinheiro,A1B2C3D4
+799,2023-09-08,CUST799,Masculino,56,Eletrodomésticos,2,50,100,Cartão de Crédito,I9J0K1L2
+800,2023-02-24,CUST800,Masculino,32,Vestuário,4,300,1200,Cartão de Crédito,A1B2C3D4
+801,2023-08-10,CUST801,Masculino,21,Vestuário,4,50,200,Cartão de Débito,A1B2C3D4
+802,2023-07-05,CUST802,Feminino,46,Beleza,1,30,30,Cartão de Débito,I9J0K1L2
+803,2023-11-22,CUST803,Masculino,39,Vestuário,4,25,100,Dinheiro,M3N4O5P6
+804,2023-08-24,CUST804,Masculino,42,Eletrodomésticos,1,30,30,Cartão de Crédito,A1B2C3D4
+805,2023-12-29,CUST805,Feminino,30,Beleza,3,500,1500,Dinheiro,I9J0K1L2
+806,2023-03-20,CUST806,Feminino,35,Beleza,3,300,900,Cartão de Crédito,A1B2C3D4
+807,2023-08-11,CUST807,Feminino,50,Eletrodomésticos,4,50,200,Cartão de Crédito,I9J0K1L2
+808,2023-04-01,CUST808,Masculino,33,Beleza,4,500,2000,Cartão de Crédito,A1B2C3D4
+809,2023-09-25,CUST809,Feminino,62,Beleza,2,50,100,Boleto,I9J0K1L2
+810,2023-11-30,CUST810,Masculino,59,Eletrodomésticos,4,25,100,Cartão de Crédito,E5F6G7H8
+811,2023-05-19,CUST811,Masculino,61,Beleza,2,25,50,Boleto,A1B2C3D4
+812,2023-11-12,CUST812,Masculino,19,Eletrodomésticos,3,25,75,Pix,A1B2C3D4
+813,2023-10-03,CUST813,Masculino,52,Eletrodomésticos,3,50,150,Dinheiro,A1B2C3D4
+814,2023-09-05,CUST814,Feminino,59,Vestuário,1,500,500,Dinheiro,E5F6G7H8
+815,2023-08-27,CUST815,Feminino,51,Vestuário,3,25,75,Dinheiro,E5F6G7H8
+816,2023-08-12,CUST816,Masculino,47,Beleza,2,500,1000,Cartão de Crédito,M3N4O5P6
+817,2023-10-31,CUST817,Masculino,30,Beleza,4,50,200,Dinheiro,A1B2C3D4
+818,2023-05-18,CUST818,Masculino,30,Eletrodomésticos,1,500,500,Boleto,E5F6G7H8
+819,2023-06-15,CUST819,Feminino,35,Beleza,2,50,100,Dinheiro,E5F6G7H8
+820,2023-05-06,CUST820,Masculino,49,Eletrodomésticos,4,50,200,Cartão de Débito,I9J0K1L2
+821,2023-02-14,CUST821,Masculino,49,Eletrodomésticos,1,300,300,Dinheiro,E5F6G7H8
+822,2023-05-23,CUST822,Feminino,52,Beleza,3,50,150,Cartão de Crédito,A1B2C3D4
+823,2023-08-19,CUST823,Feminino,56,Eletrodomésticos,2,50,100,Boleto,A1B2C3D4
+824,2023-05-05,CUST824,Masculino,63,Vestuário,4,30,120,Dinheiro,A1B2C3D4
+825,2023-08-26,CUST825,Feminino,46,Beleza,1,25,25,Dinheiro,M3N4O5P6
+826,2023-10-19,CUST826,Feminino,46,Vestuário,1,300,300,Pix,I9J0K1L2
+827,2023-11-09,CUST827,Masculino,61,Beleza,3,300,900,Pix,M3N4O5P6
+828,2023-12-09,CUST828,Feminino,33,Eletrodomésticos,4,300,1200,Cartão de Crédito,M3N4O5P6
+829,2023-07-14,CUST829,Masculino,61,Beleza,3,30,90,Cartão de Crédito,A1B2C3D4
+830,2023-06-22,CUST830,Feminino,64,Vestuário,3,50,150,Dinheiro,M3N4O5P6
+831,2023-01-15,CUST831,Masculino,27,Eletrodomésticos,4,25,100,Dinheiro,A1B2C3D4
+832,2023-09-11,CUST832,Masculino,47,Beleza,4,500,2000,Cartão de Crédito,A1B2C3D4
+833,2023-06-16,CUST833,Masculino,42,Beleza,4,50,200,Pix,A1B2C3D4
+834,2023-04-04,CUST834,Feminino,56,Beleza,2,30,60,Cartão de Débito,A1B2C3D4
+835,2023-09-07,CUST835,Masculino,37,Vestuário,4,50,200,Cartão de Crédito,A1B2C3D4
+836,2023-04-19,CUST836,Feminino,22,Vestuário,1,50,50,Cartão de Crédito,E5F6G7H8
+837,2023-07-01,CUST837,Masculino,18,Beleza,3,30,90,Cartão de Débito,A1B2C3D4
+838,2023-05-13,CUST838,Masculino,47,Eletrodomésticos,2,300,600,Cartão de Débito,A1B2C3D4
+839,2023-06-24,CUST839,Feminino,20,Eletrodomésticos,4,300,1200,Dinheiro,M3N4O5P6
+840,2023-05-24,CUST840,Masculino,62,Vestuário,2,25,50,Cartão de Crédito,E5F6G7H8
+841,2023-11-02,CUST841,Masculino,31,Eletrodomésticos,4,25,100,Dinheiro,I9J0K1L2
+842,2023-12-26,CUST842,Feminino,47,Vestuário,2,300,600,Boleto,E5F6G7H8
+843,2023-05-22,CUST843,Masculino,21,Beleza,3,500,1500,Dinheiro,M3N4O5P6
+844,2023-10-12,CUST844,Masculino,35,Vestuário,3,50,150,Cartão de Débito,E5F6G7H8
+845,2023-01-06,CUST845,Masculino,54,Vestuário,1,500,500,Boleto,I9J0K1L2
+846,2023-09-22,CUST846,Masculino,42,Beleza,1,50,50,Cartão de Crédito,I9J0K1L2
+847,2023-04-08,CUST847,Feminino,18,Eletrodomésticos,4,300,1200,Pix,I9J0K1L2
+848,2023-02-13,CUST848,Feminino,63,Vestuário,3,25,75,Cartão de Débito,E5F6G7H8
+849,2023-05-04,CUST849,Masculino,32,Vestuário,2,25,50,Cartão de Débito,I9J0K1L2
+850,2023-07-28,CUST850,Feminino,26,Beleza,2,500,1000,Pix,M3N4O5P6
+851,2023-09-08,CUST851,Masculino,32,Eletrodomésticos,2,25,50,Cartão de Crédito,E5F6G7H8
+852,2023-10-12,CUST852,Feminino,41,Vestuário,1,300,300,Boleto,E5F6G7H8
+853,2023-05-04,CUST853,Masculino,21,Beleza,2,500,1000,Boleto,E5F6G7H8
+854,2023-12-20,CUST854,Masculino,29,Vestuário,1,50,50,Cartão de Débito,A1B2C3D4
+855,2023-09-01,CUST855,Masculino,54,Beleza,1,25,25,Pix,E5F6G7H8
+856,2023-11-27,CUST856,Masculino,54,Eletrodomésticos,4,30,120,Dinheiro,A1B2C3D4
+857,2023-12-31,CUST857,Masculino,60,Eletrodomésticos,2,25,50,Cartão de Crédito,I9J0K1L2
+858,2023-09-09,CUST858,Masculino,23,Eletrodomésticos,2,50,100,Boleto,A1B2C3D4
+859,2023-08-18,CUST859,Feminino,56,Eletrodomésticos,3,500,1500,Dinheiro,E5F6G7H8
+860,2023-01-09,CUST860,Masculino,63,Vestuário,4,50,200,Boleto,E5F6G7H8
+861,2023-02-17,CUST861,Feminino,41,Vestuário,3,30,90,Boleto,E5F6G7H8
+862,2023-05-31,CUST862,Masculino,28,Eletrodomésticos,4,300,1200,Pix,E5F6G7H8
+863,2023-04-24,CUST863,Feminino,30,Eletrodomésticos,2,25,50,Dinheiro,E5F6G7H8
+864,2023-07-27,CUST864,Feminino,51,Eletrodomésticos,1,500,500,Boleto,I9J0K1L2
+865,2023-12-21,CUST865,Feminino,42,Vestuário,1,300,300,Boleto,I9J0K1L2
+866,2023-05-05,CUST866,Masculino,24,Eletrodomésticos,1,50,50,Cartão de Crédito,A1B2C3D4
+867,2023-06-06,CUST867,Masculino,21,Eletrodomésticos,1,500,500,Cartão de Débito,M3N4O5P6
+868,2023-12-06,CUST868,Feminino,25,Eletrodomésticos,1,300,300,Cartão de Crédito,I9J0K1L2
+869,2023-10-25,CUST869,Masculino,37,Beleza,3,500,1500,Cartão de Débito,I9J0K1L2
+870,2023-07-08,CUST870,Feminino,46,Eletrodomésticos,4,30,120,Pix,A1B2C3D4
+871,2023-08-31,CUST871,Masculino,62,Beleza,2,30,60,Boleto,M3N4O5P6
+872,2023-10-11,CUST872,Feminino,63,Beleza,3,25,75,Dinheiro,M3N4O5P6
+873,2023-09-29,CUST873,Feminino,27,Eletrodomésticos,4,25,100,Boleto,A1B2C3D4
+874,2023-06-26,CUST874,Masculino,60,Beleza,1,30,30,Cartão de Crédito,A1B2C3D4
+875,2023-08-06,CUST875,Feminino,51,Eletrodomésticos,4,500,2000,Cartão de Crédito,E5F6G7H8
+876,2023-10-09,CUST876,Masculino,43,Vestuário,4,30,120,Dinheiro,E5F6G7H8
+877,2023-06-19,CUST877,Feminino,58,Vestuário,1,25,25,Dinheiro,M3N4O5P6
+878,2023-06-30,CUST878,Feminino,20,Vestuário,1,30,30,Pix,A1B2C3D4
+879,2023-12-26,CUST879,Masculino,23,Vestuário,1,30,30,Pix,A1B2C3D4
+880,2023-08-21,CUST880,Masculino,22,Beleza,2,500,1000,Boleto,E5F6G7H8
+881,2023-05-19,CUST881,Masculino,22,Eletrodomésticos,1,300,300,Cartão de Débito,E5F6G7H8
+882,2023-06-06,CUST882,Feminino,64,Eletrodomésticos,2,25,50,Cartão de Crédito,I9J0K1L2
+883,2023-05-09,CUST883,Masculino,40,Eletrodomésticos,1,500,500,Cartão de Débito,I9J0K1L2
+884,2023-04-29,CUST884,Feminino,26,Vestuário,2,30,60,Pix,A1B2C3D4
+885,2023-03-03,CUST885,Feminino,52,Vestuário,4,30,120,Cartão de Débito,A1B2C3D4
+886,2023-04-09,CUST886,Masculino,37,Eletrodomésticos,3,300,900,Boleto,A1B2C3D4
+887,2023-06-11,CUST887,Masculino,59,Vestuário,4,25,100,Pix,A1B2C3D4
+888,2023-03-03,CUST888,Feminino,52,Eletrodomésticos,4,25,100,Boleto,M3N4O5P6
+889,2023-10-02,CUST889,Feminino,35,Eletrodomésticos,1,50,50,Cartão de Débito,M3N4O5P6
+890,2023-12-20,CUST890,Masculino,34,Eletrodomésticos,2,25,50,Boleto,I9J0K1L2
+891,2023-04-05,CUST891,Masculino,41,Eletrodomésticos,3,300,900,Dinheiro,A1B2C3D4
+892,2023-04-09,CUST892,Masculino,20,Eletrodomésticos,1,50,50,Pix,M3N4O5P6
+893,2023-04-21,CUST893,Masculino,49,Eletrodomésticos,1,50,50,Boleto,E5F6G7H8
+894,2023-09-05,CUST894,Masculino,52,Eletrodomésticos,1,30,30,Cartão de Crédito,M3N4O5P6
+895,2023-05-22,CUST895,Feminino,55,Vestuário,4,30,120,Pix,A1B2C3D4
+896,2023-10-29,CUST896,Feminino,30,Eletrodomésticos,2,25,50,Boleto,A1B2C3D4
+897,2023-09-26,CUST897,Feminino,64,Eletrodomésticos,2,50,100,Dinheiro,I9J0K1L2
+898,2023-11-02,CUST898,Feminino,42,Vestuário,3,30,90,Dinheiro,E5F6G7H8
+899,2023-05-25,CUST899,Masculino,26,Vestuário,2,300,600,Dinheiro,E5F6G7H8
+900,2023-02-21,CUST900,Masculino,21,Vestuário,2,30,60,Pix,A1B2C3D4
+901,2023-04-10,CUST901,Masculino,31,Eletrodomésticos,1,30,30,Boleto,E5F6G7H8
+902,2023-06-01,CUST902,Feminino,54,Beleza,1,50,50,Boleto,A1B2C3D4
+903,2023-04-27,CUST903,Feminino,51,Beleza,4,50,200,Pix,E5F6G7H8
+904,2023-07-04,CUST904,Masculino,28,Vestuário,1,500,500,Boleto,I9J0K1L2
+905,2023-04-02,CUST905,Masculino,58,Beleza,1,300,300,Cartão de Crédito,E5F6G7H8
+906,2023-06-04,CUST906,Feminino,20,Vestuário,1,50,50,Dinheiro,A1B2C3D4
+907,2023-01-08,CUST907,Feminino,45,Eletrodomésticos,1,25,25,Boleto,A1B2C3D4
+908,2023-12-29,CUST908,Masculino,46,Beleza,4,300,1200,Pix,I9J0K1L2
+909,2023-10-01,CUST909,Masculino,26,Eletrodomésticos,1,300,300,Pix,I9J0K1L2
+910,2023-03-06,CUST910,Feminino,20,Beleza,3,50,150,Cartão de Crédito,I9J0K1L2
+911,2023-05-21,CUST911,Masculino,42,Eletrodomésticos,3,300,900,Cartão de Débito,M3N4O5P6
+912,2023-01-24,CUST912,Masculino,51,Beleza,3,50,150,Pix,A1B2C3D4
+913,2023-01-28,CUST913,Masculino,29,Eletrodomésticos,3,30,90,Pix,A1B2C3D4
+914,2023-10-11,CUST914,Feminino,59,Eletrodomésticos,1,500,500,Boleto,M3N4O5P6
+915,2023-05-30,CUST915,Feminino,26,Beleza,3,30,90,Boleto,E5F6G7H8
+916,2023-12-24,CUST916,Feminino,32,Eletrodomésticos,1,50,50,Pix,E5F6G7H8
+917,2023-03-06,CUST917,Feminino,57,Eletrodomésticos,4,50,200,Boleto,M3N4O5P6
+918,2023-11-23,CUST918,Feminino,42,Eletrodomésticos,3,30,90,Boleto,A1B2C3D4
+919,2023-09-09,CUST919,Feminino,22,Beleza,2,25,50,Cartão de Crédito,E5F6G7H8
+920,2023-02-22,CUST920,Feminino,28,Beleza,3,25,75,Cartão de Crédito,M3N4O5P6
+921,2023-01-07,CUST921,Masculino,51,Eletrodomésticos,3,25,75,Pix,M3N4O5P6
+922,2023-10-21,CUST922,Masculino,41,Eletrodomésticos,1,50,50,Cartão de Débito,I9J0K1L2
+923,2023-05-26,CUST923,Masculino,32,Beleza,3,300,900,Dinheiro,E5F6G7H8
+924,2023-08-29,CUST924,Masculino,55,Beleza,2,50,100,Dinheiro,E5F6G7H8
+925,2023-09-03,CUST925,Masculino,25,Eletrodomésticos,1,300,300,Cartão de Crédito,M3N4O5P6
+926,2023-08-14,CUST926,Masculino,22,Eletrodomésticos,1,30,30,Cartão de Crédito,E5F6G7H8
+927,2023-06-24,CUST927,Masculino,43,Eletrodomésticos,4,500,2000,Cartão de Crédito,M3N4O5P6
+928,2023-04-05,CUST928,Feminino,35,Vestuário,4,300,1200,Cartão de Débito,A1B2C3D4
+929,2023-01-27,CUST929,Feminino,23,Beleza,3,25,75,Cartão de Crédito,E5F6G7H8
+930,2023-05-10,CUST930,Masculino,54,Vestuário,4,50,200,Cartão de Débito,M3N4O5P6
+931,2023-09-02,CUST931,Masculino,30,Beleza,4,30,120,Dinheiro,A1B2C3D4
+932,2023-02-28,CUST932,Feminino,45,Beleza,4,25,100,Dinheiro,I9J0K1L2
+933,2023-02-03,CUST933,Masculino,22,Beleza,1,30,30,Cartão de Crédito,E5F6G7H8
+934,2023-07-25,CUST934,Masculino,30,Beleza,1,500,500,Cartão de Crédito,E5F6G7H8
+935,2023-09-09,CUST935,Feminino,34,Beleza,1,50,50,Pix,M3N4O5P6
+936,2023-02-07,CUST936,Masculino,57,Beleza,4,50,200,Dinheiro,I9J0K1L2
+937,2023-10-23,CUST937,Feminino,62,Beleza,1,500,500,Cartão de Débito,M3N4O5P6
+938,2023-11-19,CUST938,Masculino,49,Vestuário,4,50,200,Cartão de Crédito,A1B2C3D4
+939,2023-12-18,CUST939,Feminino,46,Eletrodomésticos,1,300,300,Dinheiro,M3N4O5P6
+940,2023-01-28,CUST940,Feminino,20,Eletrodomésticos,1,30,30,Cartão de Crédito,E5F6G7H8
+941,2023-03-19,CUST941,Feminino,57,Vestuário,2,25,50,Cartão de Crédito,M3N4O5P6
+942,2023-03-18,CUST942,Masculino,51,Vestuário,3,500,1500,Cartão de Crédito,E5F6G7H8
+943,2023-10-16,CUST943,Feminino,57,Vestuário,4,300,1200,Boleto,E5F6G7H8
+944,2023-06-05,CUST944,Masculino,44,Vestuário,2,25,50,Dinheiro,E5F6G7H8
+945,2023-02-13,CUST945,Masculino,30,Beleza,1,25,25,Dinheiro,M3N4O5P6
+946,2023-05-08,CUST946,Masculino,62,Eletrodomésticos,4,500,2000,Cartão de Débito,M3N4O5P6
+947,2023-03-02,CUST947,Masculino,50,Beleza,1,300,300,Dinheiro,E5F6G7H8
+948,2023-10-13,CUST948,Feminino,23,Eletrodomésticos,3,25,75,Boleto,E5F6G7H8
+949,2023-08-02,CUST949,Feminino,41,Eletrodomésticos,2,25,50,Dinheiro,M3N4O5P6
+950,2023-11-07,CUST950,Masculino,36,Vestuário,3,300,900,Pix,E5F6G7H8
+951,2023-11-02,CUST951,Masculino,33,Beleza,2,50,100,Pix,E5F6G7H8
+952,2023-11-13,CUST952,Feminino,57,Vestuário,1,25,25,Dinheiro,M3N4O5P6
+953,2023-04-26,CUST953,Masculino,45,Beleza,3,30,90,Cartão de Crédito,E5F6G7H8
+954,2023-09-25,CUST954,Feminino,50,Eletrodomésticos,3,300,900,Dinheiro,A1B2C3D4
+955,2023-07-14,CUST955,Masculino,58,Vestuário,1,25,25,Dinheiro,E5F6G7H8
+956,2023-08-19,CUST956,Masculino,30,Vestuário,3,500,1500,Cartão de Crédito,A1B2C3D4
+957,2023-08-15,CUST957,Feminino,60,Eletrodomésticos,4,30,120,Cartão de Débito,A1B2C3D4
+958,2023-06-02,CUST958,Masculino,62,Eletrodomésticos,2,25,50,Boleto,E5F6G7H8
+959,2023-10-29,CUST959,Feminino,42,Eletrodomésticos,2,30,60,Cartão de Débito,I9J0K1L2
+960,2023-08-08,CUST960,Masculino,59,Vestuário,2,30,60,Cartão de Débito,A1B2C3D4
+961,2023-06-06,CUST961,Masculino,53,Beleza,4,50,200,Pix,I9J0K1L2
+962,2023-10-19,CUST962,Masculino,44,Vestuário,2,30,60,Cartão de Crédito,I9J0K1L2
+963,2023-11-14,CUST963,Feminino,55,Beleza,1,50,50,Pix,I9J0K1L2
+964,2023-01-31,CUST964,Masculino,24,Vestuário,3,300,900,Cartão de Débito,I9J0K1L2
+965,2023-11-09,CUST965,Masculino,22,Vestuário,4,50,200,Dinheiro,I9J0K1L2
+966,2023-02-20,CUST966,Masculino,60,Eletrodomésticos,2,500,1000,Dinheiro,A1B2C3D4
+967,2023-04-17,CUST967,Masculino,62,Beleza,1,25,25,Cartão de Débito,E5F6G7H8
+968,2023-11-17,CUST968,Feminino,48,Vestuário,3,300,900,Cartão de Débito,A1B2C3D4
+969,2023-04-19,CUST969,Feminino,40,Vestuário,3,300,900,Cartão de Débito,I9J0K1L2
+970,2023-05-16,CUST970,Masculino,59,Eletrodomésticos,4,500,2000,Pix,A1B2C3D4
+971,2023-12-05,CUST971,Feminino,27,Eletrodomésticos,4,50,200,Boleto,E5F6G7H8
+972,2023-02-11,CUST972,Masculino,49,Beleza,4,25,100,Cartão de Crédito,A1B2C3D4
+973,2023-03-22,CUST973,Masculino,60,Vestuário,1,50,50,Cartão de Débito,I9J0K1L2
+974,2023-05-03,CUST974,Masculino,47,Beleza,1,30,30,Boleto,A1B2C3D4
+975,2023-03-30,CUST975,Feminino,56,Vestuário,4,50,200,Dinheiro,M3N4O5P6
+976,2023-10-10,CUST976,Feminino,48,Beleza,2,300,600,Cartão de Débito,A1B2C3D4
+977,2023-02-08,CUST977,Feminino,35,Eletrodomésticos,3,25,75,Dinheiro,E5F6G7H8
+978,2023-03-22,CUST978,Feminino,53,Vestuário,3,50,150,Boleto,A1B2C3D4
+979,2023-01-02,CUST979,Feminino,19,Beleza,1,25,25,Dinheiro,A1B2C3D4
+980,2023-07-29,CUST980,Feminino,31,Eletrodomésticos,3,25,75,Boleto,M3N4O5P6
+981,2023-08-19,CUST981,Feminino,30,Eletrodomésticos,2,30,60,Cartão de Crédito,A1B2C3D4
+982,2023-12-19,CUST982,Feminino,46,Beleza,3,30,90,Cartão de Crédito,M3N4O5P6
+983,2023-11-01,CUST983,Feminino,29,Vestuário,1,300,300,Boleto,M3N4O5P6
+984,2023-08-29,CUST984,Masculino,56,Vestuário,1,500,500,Pix,E5F6G7H8
+985,2023-05-30,CUST985,Feminino,19,Eletrodomésticos,2,25,50,Boleto,I9J0K1L2
+986,2023-01-17,CUST986,Feminino,49,Vestuário,2,500,1000,Dinheiro,M3N4O5P6
+987,2023-04-29,CUST987,Feminino,30,Vestuário,3,300,900,Dinheiro,I9J0K1L2
+988,2023-05-28,CUST988,Feminino,63,Vestuário,3,25,75,Cartão de Débito,E5F6G7H8
+989,2023-12-28,CUST989,Feminino,44,Eletrodomésticos,1,25,25,Boleto,E5F6G7H8
+990,2023-05-25,CUST990,Feminino,58,Beleza,2,500,1000,Pix,A1B2C3D4
+991,2023-12-26,CUST991,Feminino,34,Vestuário,2,50,100,Dinheiro,I9J0K1L2
+992,2023-08-21,CUST992,Feminino,57,Eletrodomésticos,2,30,60,Pix,I9J0K1L2
+993,2023-02-06,CUST993,Feminino,48,Eletrodomésticos,3,50,150,Pix,I9J0K1L2
+994,2023-12-18,CUST994,Feminino,51,Beleza,2,500,1000,Cartão de Débito,E5F6G7H8
+995,2023-04-30,CUST995,Feminino,41,Vestuário,1,30,30,Pix,M3N4O5P6
+996,2023-05-16,CUST996,Masculino,62,Vestuário,1,50,50,Cartão de Débito,A1B2C3D4
+997,2023-11-17,CUST997,Masculino,52,Beleza,3,30,90,Cartão de Débito,E5F6G7H8
+998,2023-10-29,CUST998,Feminino,23,Beleza,4,25,100,Pix,A1B2C3D4
+999,2023-12-05,CUST999,Feminino,36,Eletrodomésticos,3,50,150,Cartão de Crédito,A1B2C3D4
+1000,2023-04-12,CUST1000,Masculino,47,Eletrodomésticos,4,30,120,Cartão de Débito,E5F6G7H8
